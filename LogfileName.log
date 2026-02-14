@@ -1,0 +1,2880 @@
+Process Name : System
+PID : 4
+CPU % : 9.90
+Memory % : 143360.00
+Thread Count : 379
+Open Files 6764:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : 
+PID : 236
+CPU % : 0.00
+Memory % : 66043904.00
+Thread Count : 0
+Open Files 0:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Registry
+PID : 280
+CPU % : 0.00
+Memory % : 32247808.00
+Thread Count : 4
+Open Files 0:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : powershell.exe
+PID : 432
+CPU % : 0.00
+Memory % : 7331840.00
+Thread Count : 9
+Open Files 467:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : RtkAudUService64.exe
+PID : 692
+CPU % : 0.00
+Memory % : 6057984.00
+Thread Count : 13
+Open Files 446:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : smss.exe
+PID : 832
+CPU % : 0.00
+Memory % : 86016.00
+Thread Count : 2
+Open Files 58:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : unsecapp.exe
+PID : 984
+CPU % : 0.00
+Memory % : 6000640.00
+Thread Count : 3
+Open Files 157:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 1032
+CPU % : 0.00
+Memory % : 8699904.00
+Thread Count : 27
+Open Files 346:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : csrss.exe
+PID : 1220
+CPU % : 0.00
+Memory % : 3080192.00
+Thread Count : 17
+Open Files 904:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 1336
+CPU % : 0.00
+Memory % : 1925120.00
+Thread Count : 3
+Open Files 109:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : wininit.exe
+PID : 1340
+CPU % : 0.00
+Memory % : 1077248.00
+Thread Count : 1
+Open Files 163:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : csrss.exe
+PID : 1348
+CPU % : 0.00
+Memory % : 3207168.00
+Thread Count : 16
+Open Files 1234:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : services.exe
+PID : 1416
+CPU % : 0.00
+Memory % : 9019392.00
+Thread Count : 6
+Open Files 876:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : LsaIso.exe
+PID : 1436
+CPU % : 0.00
+Memory % : 1060864.00
+Thread Count : 1
+Open Files 62:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : lsass.exe
+PID : 1444
+CPU % : 0.00
+Memory % : 17887232.00
+Thread Count : 11
+Open Files 1968:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : winlogon.exe
+PID : 1508
+CPU % : 0.00
+Memory % : 6111232.00
+Thread Count : 4
+Open Files 292:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 1536
+CPU % : 0.00
+Memory % : 1003520.00
+Thread Count : 2
+Open Files 96:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 1564
+CPU % : 0.00
+Memory % : 2957312.00
+Thread Count : 4
+Open Files 216:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 1648
+CPU % : 0.50
+Memory % : 29167616.00
+Thread Count : 11
+Open Files 1428:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : fontdrvhost.exe
+PID : 1680
+CPU % : 0.00
+Memory % : 712704.00
+Thread Count : 5
+Open Files 43:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : fontdrvhost.exe
+PID : 1688
+CPU % : 0.00
+Memory % : 1921024.00
+Thread Count : 5
+Open Files 43:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : WUDFHost.exe
+PID : 1700
+CPU % : 0.00
+Memory % : 4059136.00
+Thread Count : 17
+Open Files 491:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : StartMenuExperienceHost.exe
+PID : 1756
+CPU % : 0.00
+Memory % : 43417600.00
+Thread Count : 17
+Open Files 1230:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 1812
+CPU % : 1.50
+Memory % : 20082688.00
+Thread Count : 9
+Open Files 1662:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 1856
+CPU % : 0.00
+Memory % : 5279744.00
+Thread Count : 5
+Open Files 353:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : WUDFHost.exe
+PID : 1920
+CPU % : 0.00
+Memory % : 1556480.00
+Thread Count : 5
+Open Files 255:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedge.exe
+PID : 1984
+CPU % : 0.00
+Memory % : 15286272.00
+Thread Count : 16
+Open Files 471:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : dwm.exe
+PID : 1996
+CPU % : 14.90
+Memory % : 85037056.00
+Thread Count : 19
+Open Files 2165:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2056
+CPU % : 0.00
+Memory % : 4169728.00
+Thread Count : 3
+Open Files 246:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2068
+CPU % : 0.00
+Memory % : 7516160.00
+Thread Count : 4
+Open Files 283:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2088
+CPU % : 0.20
+Memory % : 5177344.00
+Thread Count : 5
+Open Files 179:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2096
+CPU % : 0.00
+Memory % : 10371072.00
+Thread Count : 8
+Open Files 326:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2140
+CPU % : 0.00
+Memory % : 4886528.00
+Thread Count : 4
+Open Files 800:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2236
+CPU % : 0.00
+Memory % : 5758976.00
+Thread Count : 10
+Open Files 512:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : powershell.exe
+PID : 2256
+CPU % : 0.20
+Memory % : 7270400.00
+Thread Count : 9
+Open Files 517:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2276
+CPU % : 0.00
+Memory % : 5963776.00
+Thread Count : 5
+Open Files 260:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2288
+CPU % : 0.00
+Memory % : 5808128.00
+Thread Count : 2
+Open Files 299:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 2312
+CPU % : 0.00
+Memory % : 1576960.00
+Thread Count : 5
+Open Files 110:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2336
+CPU % : 0.00
+Memory % : 4771840.00
+Thread Count : 7
+Open Files 241:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2348
+CPU % : 0.00
+Memory % : 3158016.00
+Thread Count : 3
+Open Files 188:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : IntelCpHDCPSvc.exe
+PID : 2480
+CPU % : 0.00
+Memory % : 1781760.00
+Thread Count : 3
+Open Files 150:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 2500
+CPU % : 0.00
+Memory % : 704200704.00
+Thread Count : 17
+Open Files 287:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2504
+CPU % : 0.00
+Memory % : 5480448.00
+Thread Count : 9
+Open Files 343:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2552
+CPU % : 0.10
+Memory % : 15216640.00
+Thread Count : 10
+Open Files 1231:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2560
+CPU % : 0.00
+Memory % : 1847296.00
+Thread Count : 5
+Open Files 124:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2588
+CPU % : 0.00
+Memory % : 6307840.00
+Thread Count : 3
+Open Files 203:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2600
+CPU % : 0.00
+Memory % : 4784128.00
+Thread Count : 4
+Open Files 200:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2608
+CPU % : 0.00
+Memory % : 4395008.00
+Thread Count : 3
+Open Files 215:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2692
+CPU % : 0.10
+Memory % : 14598144.00
+Thread Count : 8
+Open Files 471:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2836
+CPU % : 0.00
+Memory % : 7307264.00
+Thread Count : 5
+Open Files 337:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2868
+CPU % : 0.00
+Memory % : 7794688.00
+Thread Count : 6
+Open Files 506:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : git.exe
+PID : 2896
+CPU % : 0.00
+Memory % : 1138688.00
+Thread Count : 11
+Open Files 134:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 2916
+CPU % : 0.10
+Memory % : 2453504.00
+Thread Count : 8
+Open Files 472:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 2964
+CPU % : 0.00
+Memory % : 2322432.00
+Thread Count : 5
+Open Files 170:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3132
+CPU % : 0.00
+Memory % : 9129984.00
+Thread Count : 6
+Open Files 315:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : audiodg.exe
+PID : 3276
+CPU % : 4.50
+Memory % : 37789696.00
+Thread Count : 23
+Open Files 613:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3280
+CPU % : 0.00
+Memory % : 10948608.00
+Thread Count : 8
+Open Files 410:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3300
+CPU % : 0.00
+Memory % : 2695168.00
+Thread Count : 2
+Open Files 205:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : OmenCap.exe
+PID : 3308
+CPU % : 0.00
+Memory % : 3391488.00
+Thread Count : 2
+Open Files 234:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : NVDisplay.Container.exe
+PID : 3400
+CPU % : 0.20
+Memory % : 17203200.00
+Thread Count : 39
+Open Files 533:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : python.exe
+PID : 3424
+CPU % : 0.00
+Memory % : 8425472.00
+Thread Count : 4
+Open Files 195:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 3436
+CPU % : 0.00
+Memory % : 958464.00
+Thread Count : 2
+Open Files 96:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3456
+CPU % : 0.00
+Memory % : 14020608.00
+Thread Count : 8
+Open Files 539:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 3492
+CPU % : 0.00
+Memory % : 2314240.00
+Thread Count : 3
+Open Files 119:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3528
+CPU % : 0.00
+Memory % : 13684736.00
+Thread Count : 5
+Open Files 651:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3584
+CPU % : 0.00
+Memory % : 5615616.00
+Thread Count : 5
+Open Files 184:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3592
+CPU % : 0.00
+Memory % : 7364608.00
+Thread Count : 3
+Open Files 243:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3600
+CPU % : 0.10
+Memory % : 2269184.00
+Thread Count : 4
+Open Files 342:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : MemCompression
+PID : 3712
+CPU % : 0.00
+Memory % : 85655552.00
+Thread Count : 70
+Open Files 0:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3760
+CPU % : 0.00
+Memory % : 6176768.00
+Thread Count : 3
+Open Files 191:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3872
+CPU % : 0.10
+Memory % : 4919296.00
+Thread Count : 9
+Open Files 270:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3960
+CPU % : 0.00
+Memory % : 5017600.00
+Thread Count : 3
+Open Files 327:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 3968
+CPU % : 0.00
+Memory % : 2662400.00
+Thread Count : 5
+Open Files 191:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : DiagsCap.exe
+PID : 3976
+CPU % : 0.00
+Memory % : 4513792.00
+Thread Count : 3
+Open Files 338:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : NetworkCap.exe
+PID : 3984
+CPU % : 0.00
+Memory % : 4132864.00
+Thread Count : 3
+Open Files 281:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : AppHelperCap.exe
+PID : 3992
+CPU % : 22.40
+Memory % : 26574848.00
+Thread Count : 16
+Open Files 699:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : TouchpointAnalyticsClientService.exe
+PID : 4000
+CPU % : 0.00
+Memory % : 24117248.00
+Thread Count : 13
+Open Files 788:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : SysInfoCap.exe
+PID : 4008
+CPU % : 0.00
+Memory % : 17084416.00
+Thread Count : 20
+Open Files 631:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 4068
+CPU % : 0.00
+Memory % : 9207808.00
+Thread Count : 10
+Open Files 254:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 4124
+CPU % : 0.00
+Memory % : 12681216.00
+Thread Count : 6
+Open Files 462:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 4180
+CPU % : 0.00
+Memory % : 15470592.00
+Thread Count : 10
+Open Files 681:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : NVDisplay.Container.exe
+PID : 4260
+CPU % : 0.00
+Memory % : 14340096.00
+Thread Count : 28
+Open Files 677:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 4284
+CPU % : 0.10
+Memory % : 9752576.00
+Thread Count : 9
+Open Files 563:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 4416
+CPU % : 0.30
+Memory % : 12750848.00
+Thread Count : 33
+Open Files 467:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 4516
+CPU % : 2.10
+Memory % : 19902464.00
+Thread Count : 4
+Open Files 346:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 4568
+CPU % : 0.00
+Memory % : 3043328.00
+Thread Count : 2
+Open Files 128:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : WmiPrvSE.exe
+PID : 4748
+CPU % : 0.10
+Memory % : 11911168.00
+Thread Count : 7
+Open Files 323:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : HP.Omen.OmenCommandCenter.exe
+PID : 4844
+CPU % : 97.20
+Memory % : 76984320.00
+Thread Count : 62
+Open Files 2427:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : WindowsTerminal.exe
+PID : 4888
+CPU % : 47.60
+Memory % : 52178944.00
+Thread Count : 13
+Open Files 741:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 4904
+CPU % : 0.00
+Memory % : 19951616.00
+Thread Count : 8
+Open Files 531:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : unsecapp.exe
+PID : 4980
+CPU % : 0.00
+Memory % : 3772416.00
+Thread Count : 3
+Open Files 151:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : SecurityHealthSystray.exe
+PID : 4992
+CPU % : 0.00
+Memory % : 1880064.00
+Thread Count : 1
+Open Files 181:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 4996
+CPU % : 0.00
+Memory % : 16236544.00
+Thread Count : 4
+Open Files 1086:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : SecurityHealthService.exe
+PID : 5004
+CPU % : 0.00
+Memory % : 15175680.00
+Thread Count : 5
+Open Files 424:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5056
+CPU % : 0.00
+Memory % : 3555328.00
+Thread Count : 5
+Open Files 204:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 5064
+CPU % : 0.10
+Memory % : 26845184.00
+Thread Count : 27
+Open Files 399:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5116
+CPU % : 0.00
+Memory % : 4014080.00
+Thread Count : 3
+Open Files 156:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5124
+CPU % : 0.00
+Memory % : 7274496.00
+Thread Count : 4
+Open Files 222:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5160
+CPU % : 0.00
+Memory % : 4571136.00
+Thread Count : 5
+Open Files 217:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5248
+CPU % : 0.00
+Memory % : 13533184.00
+Thread Count : 16
+Open Files 625:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5260
+CPU % : 0.00
+Memory % : 16723968.00
+Thread Count : 13
+Open Files 530:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5320
+CPU % : 0.00
+Memory % : 4329472.00
+Thread Count : 6
+Open Files 278:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : spoolsv.exe
+PID : 5380
+CPU % : 0.00
+Memory % : 8024064.00
+Thread Count : 8
+Open Files 581:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : HPSystemEventUtilityHost.exe
+PID : 5416
+CPU % : 0.00
+Memory % : 33214464.00
+Thread Count : 6
+Open Files 374:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5468
+CPU % : 0.00
+Memory % : 3289088.00
+Thread Count : 4
+Open Files 183:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : AnyDesk.exe
+PID : 5544
+CPU % : 0.00
+Memory % : 31145984.00
+Thread Count : 5
+Open Files 439:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5556
+CPU % : 0.00
+Memory % : 1806336.00
+Thread Count : 2
+Open Files 119:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : OneApp.IGCC.WinService.exe
+PID : 5564
+CPU % : 0.00
+Memory % : 7684096.00
+Thread Count : 6
+Open Files 378:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5572
+CPU % : 0.00
+Memory % : 35483648.00
+Thread Count : 11
+Open Files 855:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : ETDService.exe
+PID : 5580
+CPU % : 0.00
+Memory % : 1810432.00
+Thread Count : 4
+Open Files 142:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : nssm.exe
+PID : 5588
+CPU % : 0.00
+Memory % : 2289664.00
+Thread Count : 1
+Open Files 138:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5616
+CPU % : 0.10
+Memory % : 30568448.00
+Thread Count : 18
+Open Files 463:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : HPCommRecovery.exe
+PID : 5632
+CPU % : 0.00
+Memory % : 8126464.00
+Thread Count : 6
+Open Files 325:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : OfficeClickToRun.exe
+PID : 5640
+CPU % : 0.00
+Memory % : 23433216.00
+Thread Count : 19
+Open Files 831:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : HPPrintScanDoctorService.exe
+PID : 5660
+CPU % : 0.00
+Memory % : 9822208.00
+Thread Count : 3
+Open Files 260:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : IntelAudioService.exe
+PID : 5672
+CPU % : 0.00
+Memory % : 4849664.00
+Thread Count : 5
+Open Files 393:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : ipf_uf.exe
+PID : 5684
+CPU % : 0.00
+Memory % : 2269184.00
+Thread Count : 5
+Open Files 148:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : jhi_service.exe
+PID : 5696
+CPU % : 0.00
+Memory % : 1880064.00
+Thread Count : 2
+Open Files 145:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5704
+CPU % : 0.00
+Memory % : 7143424.00
+Thread Count : 6
+Open Files 398:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : servicehost.exe
+PID : 5736
+CPU % : 0.10
+Memory % : 29929472.00
+Thread Count : 91
+Open Files 697:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : MpDefenderCoreService.exe
+PID : 5804
+CPU % : 0.00
+Memory % : 19349504.00
+Thread Count : 7
+Open Files 512:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : SECOMN64.exe
+PID : 5812
+CPU % : 0.00
+Memory % : 4079616.00
+Thread Count : 8
+Open Files 471:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : RtkAudUService64.exe
+PID : 5820
+CPU % : 0.00
+Memory % : 5505024.00
+Thread Count : 20
+Open Files 488:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : SafeExamBrowser.Service.exe
+PID : 5832
+CPU % : 0.00
+Memory % : 3764224.00
+Thread Count : 4
+Open Files 362:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : sqlwriter.exe
+PID : 5840
+CPU % : 0.00
+Memory % : 2248704.00
+Thread Count : 2
+Open Files 169:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : mysqld.exe
+PID : 5880
+CPU % : 0.00
+Memory % : 3792896.00
+Thread Count : 3
+Open Files 146:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 5960
+CPU % : 0.00
+Memory % : 1699840.00
+Thread Count : 4
+Open Files 149:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : WMIRegistrationService.exe
+PID : 6004
+CPU % : 0.00
+Memory % : 2592768.00
+Thread Count : 2
+Open Files 279:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : MsMpEng.exe
+PID : 6016
+CPU % : 3.40
+Memory % : 199475200.00
+Thread Count : 66
+Open Files 1073:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 6024
+CPU % : 0.00
+Memory % : 15388672.00
+Thread Count : 8
+Open Files 492:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : wslservice.exe
+PID : 6096
+CPU % : 0.00
+Memory % : 4513792.00
+Thread Count : 4
+Open Files 457:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : XtuService.exe
+PID : 6212
+CPU % : 0.00
+Memory % : 7872512.00
+Thread Count : 10
+Open Files 687:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : expressvpnd.exe
+PID : 6256
+CPU % : 0.00
+Memory % : 10313728.00
+Thread Count : 20
+Open Files 391:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : brave.exe
+PID : 6344
+CPU % : 0.00
+Memory % : 73519104.00
+Thread Count : 28
+Open Files 535:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : brave.exe
+PID : 6432
+CPU % : 0.00
+Memory % : 5128192.00
+Thread Count : 9
+Open Files 199:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 6496
+CPU % : 0.00
+Memory % : 1449984.00
+Thread Count : 4
+Open Files 142:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : SystemOptimizer.exe
+PID : 6648
+CPU % : 0.00
+Memory % : 12845056.00
+Thread Count : 12
+Open Files 571:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : mysqld.exe
+PID : 6792
+CPU % : 0.50
+Memory % : 3072000.00
+Thread Count : 39
+Open Files 508:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 6824
+CPU % : 0.00
+Memory % : 1613824.00
+Thread Count : 4
+Open Files 132:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : powershell.exe
+PID : 7012
+CPU % : 0.00
+Memory % : 7204864.00
+Thread Count : 9
+Open Files 476:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : brave.exe
+PID : 7180
+CPU % : 1.00
+Memory % : 97361920.00
+Thread Count : 48
+Open Files 1775:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : taskhostw.exe
+PID : 7420
+CPU % : 0.00
+Memory % : 10637312.00
+Thread Count : 8
+Open Files 346:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 7448
+CPU % : 0.00
+Memory % : 14712832.00
+Thread Count : 4
+Open Files 269:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 7580
+CPU % : 0.00
+Memory % : 2371584.00
+Thread Count : 3
+Open Files 145:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : OmenInstallMonitor.exe
+PID : 7648
+CPU % : 0.00
+Memory % : 8871936.00
+Thread Count : 9
+Open Files 471:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : HP.HPX.exe
+PID : 7884
+CPU % : 0.00
+Memory % : 9203712.00
+Thread Count : 11
+Open Files 1405:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 8120
+CPU % : 0.00
+Memory % : 7786496.00
+Thread Count : 2
+Open Files 251:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : brave.exe
+PID : 8168
+CPU % : 0.00
+Memory % : 5959680.00
+Thread Count : 11
+Open Files 231:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 8252
+CPU % : 0.00
+Memory % : 6549504.00
+Thread Count : 39
+Open Files 514:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : RtkAudUService64.exe
+PID : 8264
+CPU % : 0.00
+Memory % : 4493312.00
+Thread Count : 6
+Open Files 404:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 8368
+CPU % : 4.70
+Memory % : 17149952.00
+Thread Count : 8
+Open Files 567:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID : 8456
+CPU % : 0.00
+Memory % : 2990080.00
+Thread Count : 4
+Open Files 269:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 8484
+CPU % : 0.00
+Memory % : 2301952.00
+Thread Count : 2
+Open Files 135:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : python.exe
+PID : 8512
+CPU % : 0.00
+Memory % : 9981952.00
+Thread Count : 4
+Open Files 156:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : NisSrv.exe
+PID : 8728
+CPU % : 0.00
+Memory % : 4993024.00
+Thread Count : 4
+Open Files 216:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : AggregatorHost.exe
+PID : 8792
+CPU % : 0.00
+Memory % : 8122368.00
+Thread Count : 3
+Open Files 225:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 9032
+CPU % : 0.00
+Memory % : 4874240.00
+Thread Count : 4
+Open Files 161:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 9140
+CPU % : 0.00
+Memory % : 5734400.00
+Thread Count : 4
+Open Files 209:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : NgcIso.exe
+PID : 9172
+CPU % : 0.00
+Memory % : 167936.00
+Thread Count : 1
+Open Files 53:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : OpenConsole.exe
+PID : 9268
+CPU % : 0.00
+Memory % : 3256320.00
+Thread Count : 8
+Open Files 234:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : OverlayHelper.exe
+PID : 9660
+CPU % : 2.00
+Memory % : 23334912.00
+Thread Count : 20
+Open Files 567:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : HPSystemEventUtilityBackground.exe
+PID : 9668
+CPU % : 0.10
+Memory % : 19030016.00
+Thread Count : 5
+Open Files 508:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : ipf_helper.exe
+PID : 9872
+CPU % : 0.30
+Memory % : 2834432.00
+Thread Count : 4
+Open Files 177:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : uihost.exe
+PID : 9896
+CPU % : 0.40
+Memory % : 20099072.00
+Thread Count : 65
+Open Files 588:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 9908
+CPU % : 0.00
+Memory % : 42557440.00
+Thread Count : 19
+Open Files 421:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : ETDCtrl.exe
+PID : 9956
+CPU % : 0.00
+Memory % : 3264512.00
+Thread Count : 13
+Open Files 416:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : sihost.exe
+PID : 10052
+CPU % : 0.00
+Memory % : 25489408.00
+Thread Count : 13
+Open Files 966:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : BraveCrashHandler64.exe
+PID : 10416
+CPU % : 0.00
+Memory % : 335872.00
+Thread Count : 3
+Open Files 164:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : BraveCrashHandler.exe
+PID : 10504
+CPU % : 0.00
+Memory % : 1081344.00
+Thread Count : 3
+Open Files 183:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : python.exe
+PID : 10580
+CPU % : 97.40
+Memory % : 34869248.00
+Thread Count : 3
+Open Files 173:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 10628
+CPU % : 0.00
+Memory % : 16359424.00
+Thread Count : 10
+Open Files 467:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 10736
+CPU % : 0.20
+Memory % : 387833856.00
+Thread Count : 31
+Open Files 515:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : CrossDeviceResume.exe
+PID : 10748
+CPU % : 0.00
+Memory % : 8560640.00
+Thread Count : 6
+Open Files 503:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 10836
+CPU % : 0.00
+Memory % : 1024000.00
+Thread Count : 2
+Open Files 96:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 10984
+CPU % : 0.10
+Memory % : 20140032.00
+Thread Count : 27
+Open Files 399:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 11036
+CPU % : 13.30
+Memory % : 437624832.00
+Thread Count : 34
+Open Files 3349:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 11056
+CPU % : 0.00
+Memory % : 1560576.00
+Thread Count : 5
+Open Files 110:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 11196
+CPU % : 0.00
+Memory % : 1114112.00
+Thread Count : 2
+Open Files 99:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : SECOCL64.exe
+PID : 11228
+CPU % : 0.00
+Memory % : 3883008.00
+Thread Count : 6
+Open Files 380:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 11328
+CPU % : 0.00
+Memory % : 9207808.00
+Thread Count : 8
+Open Files 270:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 11384
+CPU % : 0.00
+Memory % : 18698240.00
+Thread Count : 27
+Open Files 329:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 11464
+CPU % : 0.50
+Memory % : 54296576.00
+Thread Count : 18
+Open Files 267:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 11524
+CPU % : 0.00
+Memory % : 4665344.00
+Thread Count : 3
+Open Files 199:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 11552
+CPU % : 0.00
+Memory % : 2174976.00
+Thread Count : 8
+Open Files 150:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : SearchIndexer.exe
+PID : 11872
+CPU % : 0.50
+Memory % : 25546752.00
+Thread Count : 13
+Open Files 1140:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 11896
+CPU % : 0.00
+Memory % : 6000640.00
+Thread Count : 3
+Open Files 294:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 11964
+CPU % : 0.10
+Memory % : 45494272.00
+Thread Count : 28
+Open Files 332:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : git.exe
+PID : 12004
+CPU % : 0.00
+Memory % : 7286784.00
+Thread Count : 11
+Open Files 134:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 12008
+CPU % : 0.00
+Memory % : 23248896.00
+Thread Count : 11
+Open Files 508:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 12204
+CPU % : 0.00
+Memory % : 11001856.00
+Thread Count : 14
+Open Files 298:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 12256
+CPU % : 0.00
+Memory % : 1597440.00
+Thread Count : 5
+Open Files 110:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : powershell.exe
+PID : 12308
+CPU % : 0.10
+Memory % : 7094272.00
+Thread Count : 9
+Open Files 475:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 12340
+CPU % : 0.00
+Memory % : 7356416.00
+Thread Count : 12
+Open Files 544:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 12344
+CPU % : 0.70
+Memory % : 58605568.00
+Thread Count : 28
+Open Files 304:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : cmd.exe
+PID : 12412
+CPU % : 0.00
+Memory % : 1101824.00
+Thread Count : 1
+Open Files 56:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : cmd.exe
+PID : 12444
+CPU % : 0.00
+Memory % : 897024.00
+Thread Count : 1
+Open Files 56:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : DesktopExtension.exe
+PID : 12492
+CPU % : 0.10
+Memory % : 11079680.00
+Thread Count : 13
+Open Files 559:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 12556
+CPU % : 0.00
+Memory % : 13803520.00
+Thread Count : 5
+Open Files 319:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 12864
+CPU % : 0.00
+Memory % : 19939328.00
+Thread Count : 8
+Open Files 190:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : ShellHost.exe
+PID : 12872
+CPU % : 0.00
+Memory % : 15814656.00
+Thread Count : 7
+Open Files 444:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : pet.exe
+PID : 12904
+CPU % : 0.00
+Memory % : 2707456.00
+Thread Count : 1
+Open Files 63:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Widgets.exe
+PID : 13148
+CPU % : 0.00
+Memory % : 27443200.00
+Thread Count : 9
+Open Files 704:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 13276
+CPU % : 0.00
+Memory % : 10133504.00
+Thread Count : 5
+Open Files 352:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : brave.exe
+PID : 13608
+CPU % : 0.00
+Memory % : 5570560.00
+Thread Count : 14
+Open Files 250:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 13652
+CPU % : 0.00
+Memory % : 6090752.00
+Thread Count : 12
+Open Files 497:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : SDXHelper.exe
+PID : 13668
+CPU % : 0.10
+Memory % : 8421376.00
+Thread Count : 12
+Open Files 697:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 13732
+CPU % : 0.00
+Memory % : 20123648.00
+Thread Count : 17
+Open Files 256:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : git.exe
+PID : 13824
+CPU % : 0.00
+Memory % : 1093632.00
+Thread Count : 11
+Open Files 134:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 13840
+CPU % : 0.00
+Memory % : 2465792.00
+Thread Count : 3
+Open Files 153:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 13892
+CPU % : 0.00
+Memory % : 32919552.00
+Thread Count : 25
+Open Files 367:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 13912
+CPU % : 0.00
+Memory % : 17813504.00
+Thread Count : 6
+Open Files 329:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 14016
+CPU % : 0.00
+Memory % : 21745664.00
+Thread Count : 20
+Open Files 388:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : HPMediaNetwork.exe
+PID : 14552
+CPU % : 0.00
+Memory % : 24285184.00
+Thread Count : 11
+Open Files 543:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : dasHost.exe
+PID : 14608
+CPU % : 0.00
+Memory % : 11149312.00
+Thread Count : 3
+Open Files 281:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 14632
+CPU % : 0.00
+Memory % : 117706752.00
+Thread Count : 21
+Open Files 1197:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : dasHost.exe
+PID : 14896
+CPU % : 0.00
+Memory % : 5337088.00
+Thread Count : 1
+Open Files 152:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 14900
+CPU % : 0.00
+Memory % : 4448256.00
+Thread Count : 20
+Open Files 897:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : OmenCommandCenterBackground.exe
+PID : 15064
+CPU % : 41.70
+Memory % : 217899008.00
+Thread Count : 113
+Open Files 2855:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 15072
+CPU % : 1.50
+Memory % : 12115968.00
+Thread Count : 12
+Open Files 293:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 15124
+CPU % : 0.00
+Memory % : 7573504.00
+Thread Count : 9
+Open Files 261:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : python.exe
+PID : 15260
+CPU % : 0.00
+Memory % : 1527808.00
+Thread Count : 3
+Open Files 200:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : LockApp.exe
+PID : 15376
+CPU % : 0.00
+Memory % : 42909696.00
+Thread Count : 25
+Open Files 900:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : OneDrive.exe
+PID : 15512
+CPU % : 0.00
+Memory % : 57311232.00
+Thread Count : 38
+Open Files 1209:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : cmd.exe
+PID : 15592
+CPU % : 0.00
+Memory % : 765952.00
+Thread Count : 1
+Open Files 74:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 15704
+CPU % : 0.10
+Memory % : 18792448.00
+Thread Count : 11
+Open Files 402:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 15768
+CPU % : 0.00
+Memory % : 9547776.00
+Thread Count : 52
+Open Files 1312:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 15776
+CPU % : 0.00
+Memory % : 1626112.00
+Thread Count : 5
+Open Files 110:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : LightStudio-background.exe
+PID : 15868
+CPU % : 13.90
+Memory % : 24563712.00
+Thread Count : 40
+Open Files 849:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 15888
+CPU % : 0.00
+Memory % : 4304896.00
+Thread Count : 5
+Open Files 182:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 16044
+CPU % : 0.50
+Memory % : 109649920.00
+Thread Count : 59
+Open Files 1360:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 16084
+CPU % : 0.50
+Memory % : 79278080.00
+Thread Count : 20
+Open Files 273:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : ctfmon.exe
+PID : 16136
+CPU % : 0.00
+Memory % : 20226048.00
+Thread Count : 15
+Open Files 614:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : ApplicationFrameHost.exe
+PID : 16512
+CPU % : 0.00
+Memory % : 8417280.00
+Thread Count : 8
+Open Files 487:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 16624
+CPU % : 0.00
+Memory % : 5795840.00
+Thread Count : 8
+Open Files 280:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 16632
+CPU % : 1.70
+Memory % : 49487872.00
+Thread Count : 23
+Open Files 315:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 16668
+CPU % : 0.00
+Memory % : 5214208.00
+Thread Count : 5
+Open Files 410:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : FileSyncHelper.exe
+PID : 16696
+CPU % : 0.00
+Memory % : 14495744.00
+Thread Count : 4
+Open Files 457:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 16908
+CPU % : 0.00
+Memory % : 1388544.00
+Thread Count : 2
+Open Files 140:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 16984
+CPU % : 0.00
+Memory % : 4939776.00
+Thread Count : 2
+Open Files 197:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 17004
+CPU % : 24.20
+Memory % : 482103296.00
+Thread Count : 51
+Open Files 4503:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : sqlservr.exe
+PID : 17032
+CPU % : 6.90
+Memory % : 70045696.00
+Thread Count : 82
+Open Files 758:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 17060
+CPU % : 2.60
+Memory % : 77090816.00
+Thread Count : 31
+Open Files 831:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : WidgetService.exe
+PID : 17156
+CPU % : 0.00
+Memory % : 4108288.00
+Thread Count : 6
+Open Files 312:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : sqlceip.exe
+PID : 17276
+CPU % : 0.10
+Memory % : 18726912.00
+Thread Count : 11
+Open Files 546:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 17456
+CPU % : 2.80
+Memory % : 25141248.00
+Thread Count : 40
+Open Files 520:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : AppActions.exe
+PID : 17604
+CPU % : 0.00
+Memory % : 9801728.00
+Thread Count : 7
+Open Files 390:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 17648
+CPU % : 0.00
+Memory % : 20324352.00
+Thread Count : 28
+Open Files 302:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 18024
+CPU % : 0.00
+Memory % : 970752.00
+Thread Count : 2
+Open Files 96:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 18052
+CPU % : 0.00
+Memory % : 90021888.00
+Thread Count : 12
+Open Files 276:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 18148
+CPU % : 0.00
+Memory % : 2977792.00
+Thread Count : 7
+Open Files 300:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 18212
+CPU % : 0.10
+Memory % : 521904128.00
+Thread Count : 28
+Open Files 658:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 18224
+CPU % : 0.00
+Memory % : 2117632.00
+Thread Count : 1
+Open Files 157:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : SearchFilterHost.exe
+PID : 18252
+CPU % : 0.00
+Memory % : 13250560.00
+Thread Count : 5
+Open Files 193:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 18280
+CPU % : 0.00
+Memory % : 983040.00
+Thread Count : 2
+Open Files 99:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID : 18496
+CPU % : 0.10
+Memory % : 22310912.00
+Thread Count : 10
+Open Files 461:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 18628
+CPU % : 0.00
+Memory % : 99676160.00
+Thread Count : 31
+Open Files 484:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 18648
+CPU % : 0.00
+Memory % : 127987712.00
+Thread Count : 12
+Open Files 283:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedge.exe
+PID : 18824
+CPU % : 0.00
+Memory % : 5005312.00
+Thread Count : 30
+Open Files 394:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : brave.exe
+PID : 18860
+CPU % : 0.10
+Memory % : 31350784.00
+Thread Count : 53
+Open Files 849:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 18968
+CPU % : 0.00
+Memory % : 987136.00
+Thread Count : 2
+Open Files 99:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : cmd.exe
+PID : 19004
+CPU % : 0.00
+Memory % : 2494464.00
+Thread Count : 1
+Open Files 80:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 19184
+CPU % : 1.40
+Memory % : 183693312.00
+Thread Count : 27
+Open Files 635:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : browserhost.exe
+PID : 19208
+CPU % : 0.00
+Memory % : 2572288.00
+Thread Count : 46
+Open Files 301:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID : 19240
+CPU % : 0.00
+Memory % : 151552.00
+Thread Count : 13
+Open Files 325:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 19420
+CPU % : 0.10
+Memory % : 250142720.00
+Thread Count : 26
+Open Files 597:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 19488
+CPU % : 0.30
+Memory % : 126017536.00
+Thread Count : 56
+Open Files 1434:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : git.exe
+PID : 19556
+CPU % : 0.00
+Memory % : 1175552.00
+Thread Count : 11
+Open Files 134:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : brave.exe
+PID : 19612
+CPU % : 0.00
+Memory % : 8273920.00
+Thread Count : 23
+Open Files 388:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedge.exe
+PID : 19800
+CPU % : 0.00
+Memory % : 27312128.00
+Thread Count : 21
+Open Files 366:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : UserOOBEBroker.exe
+PID : 19824
+CPU % : 0.00
+Memory % : 2002944.00
+Thread Count : 1
+Open Files 140:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : OpenConsole.exe
+PID : 19992
+CPU % : 0.00
+Memory % : 2215936.00
+Thread Count : 7
+Open Files 231:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : brave.exe
+PID : 20000
+CPU % : 0.00
+Memory % : 2772992.00
+Thread Count : 7
+Open Files 200:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : brave.exe
+PID : 20112
+CPU % : 0.10
+Memory % : 29274112.00
+Thread Count : 23
+Open Files 437:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : brave.exe
+PID : 20196
+CPU % : 0.00
+Memory % : 14635008.00
+Thread Count : 28
+Open Files 317:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 20280
+CPU % : 0.00
+Memory % : 3190784.00
+Thread Count : 8
+Open Files 201:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID : 20428
+CPU % : 0.00
+Memory % : 172032.00
+Thread Count : 13
+Open Files 323:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : brave.exe
+PID : 20676
+CPU % : 0.10
+Memory % : 39313408.00
+Thread Count : 28
+Open Files 555:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 20948
+CPU % : 0.10
+Memory % : 172572672.00
+Thread Count : 28
+Open Files 481:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 21056
+CPU % : 0.00
+Memory % : 1982464.00
+Thread Count : 3
+Open Files 119:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : brave.exe
+PID : 21200
+CPU % : 0.10
+Memory % : 36057088.00
+Thread Count : 28
+Open Files 568:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : backgroundTaskHost.exe
+PID : 21264
+CPU % : 0.00
+Memory % : 176128.00
+Thread Count : 13
+Open Files 326:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 21496
+CPU % : 0.20
+Memory % : 147648512.00
+Thread Count : 28
+Open Files 562:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 21584
+CPU % : 0.00
+Memory % : 10842112.00
+Thread Count : 8
+Open Files 202:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 21688
+CPU % : 17.20
+Memory % : 596865024.00
+Thread Count : 30
+Open Files 692:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : cmd.exe
+PID : 21948
+CPU % : 0.00
+Memory % : 618496.00
+Thread Count : 1
+Open Files 56:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : PhoneExperienceHost.exe
+PID : 22200
+CPU % : 0.00
+Memory % : 65507328.00
+Thread Count : 22
+Open Files 1863:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : browserhost.exe
+PID : 22372
+CPU % : 0.00
+Memory % : 1855488.00
+Thread Count : 46
+Open Files 262:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : brave.exe
+PID : 22504
+CPU % : 0.00
+Memory % : 39018496.00
+Thread Count : 28
+Open Files 557:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : wlanext.exe
+PID : 22536
+CPU % : 0.00
+Memory % : 1265664.00
+Thread Count : 2
+Open Files 124:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : CalculatorApp.exe
+PID : 22712
+CPU % : 0.00
+Memory % : 155648.00
+Thread Count : 14
+Open Files 600:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 22768
+CPU % : 0.00
+Memory % : 85659648.00
+Thread Count : 27
+Open Files 326:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 23112
+CPU % : 0.00
+Memory % : 17956864.00
+Thread Count : 9
+Open Files 171:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 23364
+CPU % : 0.00
+Memory % : 40001536.00
+Thread Count : 20
+Open Files 324:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 23392
+CPU % : 0.00
+Memory % : 3805184.00
+Thread Count : 3
+Open Files 119:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : browserhost.exe
+PID : 23884
+CPU % : 0.00
+Memory % : 5120000.00
+Thread Count : 48
+Open Files 313:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 24220
+CPU % : 0.30
+Memory % : 57753600.00
+Thread Count : 28
+Open Files 302:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 24348
+CPU % : 1.60
+Memory % : 169979904.00
+Thread Count : 30
+Open Files 446:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : SearchFilterHost.exe
+PID : 24656
+CPU % : 0.00
+Memory % : 12488704.00
+Thread Count : 3
+Open Files 188:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : git.exe
+PID : 25556
+CPU % : 0.00
+Memory % : 1097728.00
+Thread Count : 11
+Open Files 130:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 25624
+CPU % : 0.00
+Memory % : 313921536.00
+Thread Count : 15
+Open Files 285:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 25932
+CPU % : 3.00
+Memory % : 141811712.00
+Thread Count : 28
+Open Files 321:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 26076
+CPU % : 0.00
+Memory % : 6656000.00
+Thread Count : 3
+Open Files 120:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : notepad++.exe
+PID : 26248
+CPU % : 0.20
+Memory % : 7831552.00
+Thread Count : 5
+Open Files 482:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 26292
+CPU % : 0.00
+Memory % : 8065024.00
+Thread Count : 21
+Open Files 308:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 26420
+CPU % : 0.00
+Memory % : 65937408.00
+Thread Count : 29
+Open Files 432:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : SystemSettings.exe
+PID : 26436
+CPU % : 0.00
+Memory % : 155648.00
+Thread Count : 46
+Open Files 1601:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : git.exe
+PID : 26572
+CPU % : 0.00
+Memory % : 1015808.00
+Thread Count : 11
+Open Files 134:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : python.exe
+PID : 26892
+CPU % : 0.00
+Memory % : 7303168.00
+Thread Count : 3
+Open Files 161:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : taskhostw.exe
+PID : 27072
+CPU % : 0.00
+Memory % : 21082112.00
+Thread Count : 6
+Open Files 632:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 27144
+CPU % : 0.00
+Memory % : 1757184.00
+Thread Count : 2
+Open Files 109:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 27832
+CPU % : 0.00
+Memory % : 39776256.00
+Thread Count : 21
+Open Files 294:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 28104
+CPU % : 0.00
+Memory % : 2990080.00
+Thread Count : 8
+Open Files 185:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedge.exe
+PID : 28304
+CPU % : 0.30
+Memory % : 84840448.00
+Thread Count : 56
+Open Files 1674:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 28556
+CPU % : 0.20
+Memory % : 141266944.00
+Thread Count : 29
+Open Files 506:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 28572
+CPU % : 0.00
+Memory % : 1249280.00
+Thread Count : 2
+Open Files 139:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 28588
+CPU % : 0.00
+Memory % : 2514944.00
+Thread Count : 2
+Open Files 168:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 28648
+CPU % : 0.00
+Memory % : 67522560.00
+Thread Count : 21
+Open Files 690:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : CodeSetup-stable-b6a47e94e326b5c209d118cf0f994d6065585705.tmp
+PID : 28676
+CPU % : 0.00
+Memory % : 3436544.00
+Thread Count : 1
+Open Files 381:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : ShellExperienceHost.exe
+PID : 28748
+CPU % : 0.00
+Memory % : 60870656.00
+Thread Count : 22
+Open Files 861:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 28968
+CPU % : 0.10
+Memory % : 44843008.00
+Thread Count : 28
+Open Files 358:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 29048
+CPU % : 0.00
+Memory % : 2220032.00
+Thread Count : 3
+Open Files 119:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 29056
+CPU % : 0.00
+Memory % : 8687616.00
+Thread Count : 21
+Open Files 307:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 29072
+CPU % : 0.10
+Memory % : 116154368.00
+Thread Count : 29
+Open Files 449:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : SearchProtocolHost.exe
+PID : 29076
+CPU % : 0.00
+Memory % : 20115456.00
+Thread Count : 6
+Open Files 374:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 29772
+CPU % : 0.00
+Memory % : 43966464.00
+Thread Count : 28
+Open Files 299:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : CodeSetup-stable-b6a47e94e326b5c209d118cf0f994d6065585705.exe
+PID : 30000
+CPU % : 0.00
+Memory % : 1744896.00
+Thread Count : 1
+Open Files 171:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 30008
+CPU % : 0.00
+Memory % : 2068480.00
+Thread Count : 2
+Open Files 120:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : dllhost.exe
+PID : 30552
+CPU % : 0.00
+Memory % : 2138112.00
+Thread Count : 2
+Open Files 191:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 31024
+CPU % : 0.00
+Memory % : 3989504.00
+Thread Count : 22
+Open Files 375:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : browserhost.exe
+PID : 31180
+CPU % : 0.00
+Memory % : 3670016.00
+Thread Count : 46
+Open Files 302:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 31276
+CPU % : 0.20
+Memory % : 102940672.00
+Thread Count : 30
+Open Files 492:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 31440
+CPU % : 0.00
+Memory % : 2949120.00
+Thread Count : 6
+Open Files 197:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : cmd.exe
+PID : 31464
+CPU % : 0.00
+Memory % : 897024.00
+Thread Count : 1
+Open Files 56:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : OneDrive.Sync.Service.exe
+PID : 31672
+CPU % : 0.00
+Memory % : 20713472.00
+Thread Count : 15
+Open Files 547:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : SearchHost.exe
+PID : 31720
+CPU % : 0.00
+Memory % : 46080000.00
+Thread Count : 23
+Open Files 1447:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedge.exe
+PID : 31956
+CPU % : 0.00
+Memory % : 2383872.00
+Thread Count : 7
+Open Files 165:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : RuntimeBroker.exe
+PID : 32188
+CPU % : 0.00
+Memory % : 25075712.00
+Thread Count : 7
+Open Files 251:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 32332
+CPU % : 2.20
+Memory % : 167276544.00
+Thread Count : 31
+Open Files 468:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 32484
+CPU % : 0.00
+Memory % : 8425472.00
+Thread Count : 7
+Open Files 150:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 32508
+CPU % : 1.70
+Memory % : 184590336.00
+Thread Count : 29
+Open Files 450:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 32624
+CPU % : 0.20
+Memory % : 200462336.00
+Thread Count : 31
+Open Files 452:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedge.exe
+PID : 32732
+CPU % : 0.00
+Memory % : 6156288.00
+Thread Count : 15
+Open Files 219:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : explorer.exe
+PID : 32800
+CPU % : 6.80
+Memory % : 210731008.00
+Thread Count : 96
+Open Files 5781:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedge.exe
+PID : 32816
+CPU % : 0.00
+Memory % : 40009728.00
+Thread Count : 28
+Open Files 306:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : pet.exe
+PID : 32844
+CPU % : 0.00
+Memory % : 1036288.00
+Thread Count : 1
+Open Files 73:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 33052
+CPU % : 0.00
+Memory % : 16621568.00
+Thread Count : 27
+Open Files 326:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 33376
+CPU % : 0.10
+Memory % : 87285760.00
+Thread Count : 28
+Open Files 458:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 33480
+CPU % : 0.00
+Memory % : 1773568.00
+Thread Count : 30
+Open Files 447:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedge.exe
+PID : 33512
+CPU % : 0.00
+Memory % : 5263360.00
+Thread Count : 10
+Open Files 181:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 33532
+CPU % : 1.90
+Memory % : 118444032.00
+Thread Count : 29
+Open Files 387:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : msedgewebview2.exe
+PID : 33840
+CPU % : 0.00
+Memory % : 851968.00
+Thread Count : 10
+Open Files 175:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 34400
+CPU % : 0.00
+Memory % : 82763776.00
+Thread Count : 21
+Open Files 278:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 34644
+CPU % : 0.30
+Memory % : 286363648.00
+Thread Count : 29
+Open Files 593:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 34720
+CPU % : 29.50
+Memory % : 433594368.00
+Thread Count : 31
+Open Files 585:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : svchost.exe
+PID : 34972
+CPU % : 0.00
+Memory % : 34639872.00
+Thread Count : 7
+Open Files 471:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : conhost.exe
+PID : 36012
+CPU % : 0.00
+Memory % : 2965504.00
+Thread Count : 3
+Open Files 119:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 36036
+CPU % : 1.30
+Memory % : 113385472.00
+Thread Count : 27
+Open Files 295:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 36048
+CPU % : 0.00
+Memory % : 21901312.00
+Thread Count : 28
+Open Files 300:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : Code.exe
+PID : 36364
+CPU % : 0.50
+Memory % : 77746176.00
+Thread Count : 26
+Open Files 579:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------
+Process Name : chrome.exe
+PID : 36440
+CPU % : 0.00
+Memory % : 21491712.00
+Thread Count : 20
+Open Files 293:
+Log created at : Sat Feb 14 11:34:37 2026
+------------------------------------------------------------

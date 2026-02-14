@@ -1,0 +1,5355 @@
+------------------------------------------------------------
+----------- Platform Surveillance System --------
+Log created at : Sat Feb 14 02:54:37 2026
+------------------------------------------------------------
+
+---------------------- System Report ----------------------- 
+CPU Usage : 27.5 %
+------------------------------------------------------------
+RAM Usage : 82.1 %
+------------------------------------------------------------
+
+Disk Usage Report
+------------------------------------------------------------
+C:\ -> 92.3 % used
+D:\ -> 42.2 % used
+E:\ -> 38.6 % used
+------------------------------------------------------------
+------------------------------------------------------------
+
+Network Usage Report
+Sent : 37.86 MB
+Recv : 553.18 MB
+------------------------------------------------------------
+PID : 0
+Name : System Idle Process
+Username : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 1970-01-01 05-30-00
+CPU % : 924.50
+Memory % : 0.00
+------------------------------------------------------------
+PID : 4
+Name : System
+Username : NT AUTHORITY\SYSTEM
+Status : running
+Start Time : 1970-01-01 05-30-00
+CPU % : 23.70
+Memory % : 0.00
+------------------------------------------------------------
+PID : 236
+Name : 
+Username : None
+Status : stopped
+Start Time : 2026-02-11 23-56-35
+CPU % : 0.00
+Memory % : 0.39
+------------------------------------------------------------
+PID : 280
+Name : Registry
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-35
+CPU % : 0.00
+Memory % : 0.33
+------------------------------------------------------------
+PID : 432
+Name : powershell.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-51-13
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 692
+Name : RtkAudUService64.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-51
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 832
+Name : smss.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-37
+CPU % : 0.00
+Memory % : 0.00
+------------------------------------------------------------
+PID : 984
+Name : unsecapp.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-29
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 1032
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 15-23-49
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 1052
+Name : WmiPrvSE.exe
+Username : None
+Status : running
+Start Time : 2026-02-14 00-15-09
+CPU % : 0.00
+Memory % : 0.11
+------------------------------------------------------------
+PID : 1220
+Name : csrss.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-49
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 1336
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 1340
+Name : wininit.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-51
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 1348
+Name : csrss.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-51
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 1416
+Name : services.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-51
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 1436
+Name : LsaIso.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-51
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 1444
+Name : lsass.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-51
+CPU % : 2.40
+Memory % : 0.11
+------------------------------------------------------------
+PID : 1508
+Name : winlogon.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-51
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 1536
+Name : conhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-02-48
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 1564
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 1648
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-51
+CPU % : 0.00
+Memory % : 0.17
+------------------------------------------------------------
+PID : 1680
+Name : fontdrvhost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-51
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 1688
+Name : fontdrvhost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-51
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 1700
+Name : WUDFHost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-51
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 1728
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-14 02-52-18
+CPU % : 0.00
+Memory % : 0.21
+------------------------------------------------------------
+PID : 1756
+Name : StartMenuExperienceHost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 04-52-24
+CPU % : 0.00
+Memory % : 0.45
+------------------------------------------------------------
+PID : 1812
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-51
+CPU % : 0.50
+Memory % : 0.12
+------------------------------------------------------------
+PID : 1856
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-51
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 1920
+Name : WUDFHost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-51
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 1984
+Name : msedge.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-48-35
+CPU % : 0.00
+Memory % : 0.14
+------------------------------------------------------------
+PID : 1996
+Name : dwm.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-51
+CPU % : 19.70
+Memory % : 0.55
+------------------------------------------------------------
+PID : 2056
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 2068
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.07
+------------------------------------------------------------
+PID : 2088
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 2096
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.07
+------------------------------------------------------------
+PID : 2140
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-12 16-19-37
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 2236
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 2256
+Name : powershell.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-51-07
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 2276
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 2288
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 2312
+Name : conhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-51-13
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 2336
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 2348
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 2480
+Name : IntelCpHDCPSvc.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 2500
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-02-50
+CPU % : 0.00
+Memory % : 4.24
+------------------------------------------------------------
+PID : 2504
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 2552
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.09
+------------------------------------------------------------
+PID : 2560
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 2588
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 2600
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 2608
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 2692
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-12 00-06-56
+CPU % : 0.00
+Memory % : 0.09
+------------------------------------------------------------
+PID : 2836
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 2868
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 2896
+Name : git.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 00-52-20
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 2916
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 00-58-31
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 2964
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-13 19-11-37
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 3132
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 3276
+Name : audiodg.exe
+Username : None
+Status : running
+Start Time : 2026-02-14 01-44-23
+CPU % : 3.60
+Memory % : 0.24
+------------------------------------------------------------
+PID : 3280
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.06
+------------------------------------------------------------
+PID : 3300
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 3308
+Name : OmenCap.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 3400
+Name : NVDisplay.Container.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 2.50
+Memory % : 0.09
+------------------------------------------------------------
+PID : 3424
+Name : python.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-02-48
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 3436
+Name : conhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-51-14
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 3456
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.08
+------------------------------------------------------------
+PID : 3492
+Name : conhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-12-02
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 3528
+Name : svchost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-13
+CPU % : 0.00
+Memory % : 0.10
+------------------------------------------------------------
+PID : 3548
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-13 19-11-37
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 3584
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 3592
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 3600
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 3712
+Name : MemCompression
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.74
+------------------------------------------------------------
+PID : 3760
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 3872
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-57-05
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 3960
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 3968
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 3976
+Name : DiagsCap.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 3984
+Name : NetworkCap.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 3992
+Name : AppHelperCap.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 46.20
+Memory % : 0.14
+------------------------------------------------------------
+PID : 4000
+Name : TouchpointAnalyticsClientService.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.14
+------------------------------------------------------------
+PID : 4008
+Name : SysInfoCap.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.11
+------------------------------------------------------------
+PID : 4068
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-59-01
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 4124
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.08
+------------------------------------------------------------
+PID : 4144
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 02-54-29
+CPU % : 0.30
+Memory % : 0.76
+------------------------------------------------------------
+PID : 4180
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.10
+------------------------------------------------------------
+PID : 4260
+Name : NVDisplay.Container.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-57-05
+CPU % : 0.00
+Memory % : 0.10
+------------------------------------------------------------
+PID : 4284
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.07
+------------------------------------------------------------
+PID : 4416
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 00-52-10
+CPU % : 0.00
+Memory % : 0.08
+------------------------------------------------------------
+PID : 4516
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.11
+------------------------------------------------------------
+PID : 4568
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 4748
+Name : WmiPrvSE.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-52
+CPU % : 0.00
+Memory % : 0.07
+------------------------------------------------------------
+PID : 4840
+Name : RuntimeBroker.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-48-20
+CPU % : 0.00
+Memory % : 0.18
+------------------------------------------------------------
+PID : 4888
+Name : WindowsTerminal.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-05-39
+CPU % : 54.10
+Memory % : 0.40
+------------------------------------------------------------
+PID : 4904
+Name : svchost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-13
+CPU % : 0.00
+Memory % : 0.13
+------------------------------------------------------------
+PID : 4980
+Name : unsecapp.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 4992
+Name : SecurityHealthSystray.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-29
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 4996
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-12 01-57-14
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 5004
+Name : SecurityHealthService.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-57-29
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 5056
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 5064
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-02-40
+CPU % : 0.20
+Memory % : 0.19
+------------------------------------------------------------
+PID : 5116
+Name : svchost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-13
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 5124
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 5160
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 5248
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.10
+------------------------------------------------------------
+PID : 5260
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.08
+------------------------------------------------------------
+PID : 5320
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.06
+------------------------------------------------------------
+PID : 5380
+Name : spoolsv.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 5468
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 5544
+Name : AnyDesk.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 5556
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 5564
+Name : OneApp.IGCC.WinService.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.07
+------------------------------------------------------------
+PID : 5572
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.40
+Memory % : 0.33
+------------------------------------------------------------
+PID : 5580
+Name : ETDService.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 5588
+Name : nssm.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 5616
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.24
+------------------------------------------------------------
+PID : 5632
+Name : HPCommRecovery.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 5640
+Name : OfficeClickToRun.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.10
+------------------------------------------------------------
+PID : 5660
+Name : HPPrintScanDoctorService.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.06
+------------------------------------------------------------
+PID : 5672
+Name : IntelAudioService.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 5684
+Name : ipf_uf.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 5696
+Name : jhi_service.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 5704
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 5732
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 20-43-59
+CPU % : 0.00
+Memory % : 0.69
+------------------------------------------------------------
+PID : 5736
+Name : servicehost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.17
+------------------------------------------------------------
+PID : 5804
+Name : MpDefenderCoreService.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.08
+------------------------------------------------------------
+PID : 5812
+Name : SECOMN64.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 5820
+Name : RtkAudUService64.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 5832
+Name : SafeExamBrowser.Service.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 5840
+Name : sqlwriter.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 5880
+Name : mysqld.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 5960
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 6004
+Name : WMIRegistrationService.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 6016
+Name : MsMpEng.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 4.80
+Memory % : 1.27
+------------------------------------------------------------
+PID : 6024
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.09
+------------------------------------------------------------
+PID : 6096
+Name : wslservice.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 6212
+Name : XtuService.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 6256
+Name : expressvpnd.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.06
+------------------------------------------------------------
+PID : 6344
+Name : brave.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-29-39
+CPU % : 0.00
+Memory % : 3.74
+------------------------------------------------------------
+PID : 6432
+Name : brave.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-29-38
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 6496
+Name : conhost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 6648
+Name : SystemOptimizer.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-13
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 6792
+Name : mysqld.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 6824
+Name : conhost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-53
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 7012
+Name : powershell.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-02-48
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 7180
+Name : brave.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-29-38
+CPU % : 0.20
+Memory % : 0.72
+------------------------------------------------------------
+PID : 7420
+Name : taskhostw.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-13
+CPU % : 0.00
+Memory % : 0.08
+------------------------------------------------------------
+PID : 7448
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-57-13
+CPU % : 0.00
+Memory % : 0.09
+------------------------------------------------------------
+PID : 7580
+Name : svchost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-13
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 7648
+Name : OmenInstallMonitor.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-13
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 7884
+Name : HP.HPX.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-59-49
+CPU % : 0.00
+Memory % : 0.07
+------------------------------------------------------------
+PID : 8120
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-57-13
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 8168
+Name : brave.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-29-38
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 8252
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 02-12-37
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 8264
+Name : RtkAudUService64.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-56
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 8368
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-55
+CPU % : 1.90
+Memory % : 0.10
+------------------------------------------------------------
+PID : 8456
+Name : RuntimeBroker.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 12-12-08
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 8484
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-55
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 8512
+Name : python.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-02-48
+CPU % : 0.00
+Memory % : 0.06
+------------------------------------------------------------
+PID : 8728
+Name : NisSrv.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-59
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 8792
+Name : AggregatorHost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-56
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 9032
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-56
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 9140
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-56
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 9172
+Name : NgcIso.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-56-56
+CPU % : 0.00
+Memory % : 0.00
+------------------------------------------------------------
+PID : 9268
+Name : OpenConsole.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-05-39
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 9660
+Name : OverlayHelper.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-13
+CPU % : 1.30
+Memory % : 0.14
+------------------------------------------------------------
+PID : 9668
+Name : HPSystemEventUtilityBackground.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-51
+CPU % : 0.00
+Memory % : 0.14
+------------------------------------------------------------
+PID : 9872
+Name : ipf_helper.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-12
+CPU % : 0.20
+Memory % : 0.03
+------------------------------------------------------------
+PID : 9896
+Name : uihost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-12
+CPU % : 0.00
+Memory % : 0.16
+------------------------------------------------------------
+PID : 9956
+Name : ETDCtrl.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-13
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 10052
+Name : sihost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-13
+CPU % : 0.00
+Memory % : 0.14
+------------------------------------------------------------
+PID : 10416
+Name : BraveCrashHandler64.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-57-14
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 10504
+Name : BraveCrashHandler.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-57-14
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 10628
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-57-14
+CPU % : 0.00
+Memory % : 0.08
+------------------------------------------------------------
+PID : 10736
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-57-51
+CPU % : 0.00
+Memory % : 3.28
+------------------------------------------------------------
+PID : 10748
+Name : CrossDeviceResume.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-14
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 10836
+Name : conhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-51-14
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 10984
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-51-06
+CPU % : 0.00
+Memory % : 0.12
+------------------------------------------------------------
+PID : 11036
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 00-58-31
+CPU % : 0.50
+Memory % : 1.09
+------------------------------------------------------------
+PID : 11056
+Name : conhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-02-47
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 11196
+Name : conhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-14
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 11228
+Name : SECOCL64.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-14
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 11328
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-57-30
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 11384
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-44-23
+CPU % : 0.00
+Memory % : 0.34
+------------------------------------------------------------
+PID : 11524
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-12 00-01-43
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 11552
+Name : msedgewebview2.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 04-52-28
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 11872
+Name : SearchIndexer.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-57-14
+CPU % : 0.50
+Memory % : 0.12
+------------------------------------------------------------
+PID : 11896
+Name : svchost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-20
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 11964
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 20-25-05
+CPU % : 0.00
+Memory % : 0.30
+------------------------------------------------------------
+PID : 12004
+Name : git.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-02-46
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 12008
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-57-15
+CPU % : 0.00
+Memory % : 0.13
+------------------------------------------------------------
+PID : 12204
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 00-58-31
+CPU % : 0.00
+Memory % : 0.08
+------------------------------------------------------------
+PID : 12256
+Name : conhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-02-41
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 12308
+Name : powershell.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-02-41
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 12340
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-20-23
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 12344
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-45-42
+CPU % : 0.00
+Memory % : 0.41
+------------------------------------------------------------
+PID : 12412
+Name : cmd.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-44-25
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 12444
+Name : cmd.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-12-02
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 12492
+Name : DesktopExtension.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-59-49
+CPU % : 0.00
+Memory % : 0.08
+------------------------------------------------------------
+PID : 12556
+Name : svchost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-38-56
+CPU % : 0.00
+Memory % : 0.09
+------------------------------------------------------------
+PID : 12864
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-02-44
+CPU % : 0.00
+Memory % : 0.08
+------------------------------------------------------------
+PID : 12872
+Name : ShellHost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 02-06-47
+CPU % : 0.00
+Memory % : 0.30
+------------------------------------------------------------
+PID : 12904
+Name : pet.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-02-44
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 13148
+Name : Widgets.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-20
+CPU % : 0.00
+Memory % : 0.20
+------------------------------------------------------------
+PID : 13276
+Name : svchost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-19
+CPU % : 0.00
+Memory % : 0.07
+------------------------------------------------------------
+PID : 13608
+Name : brave.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 19-54-38
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 13652
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-12 00-01-44
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 13668
+Name : SDXHelper.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 02-21-20
+CPU % : 0.00
+Memory % : 0.06
+------------------------------------------------------------
+PID : 13732
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-59-02
+CPU % : 0.00
+Memory % : 0.12
+------------------------------------------------------------
+PID : 13824
+Name : git.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 00-52-27
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 13840
+Name : svchost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 00-01-43
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 13892
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 00-52-05
+CPU % : 0.00
+Memory % : 0.21
+------------------------------------------------------------
+PID : 13912
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-12 00-52-06
+CPU % : 0.00
+Memory % : 0.08
+------------------------------------------------------------
+PID : 14016
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 00-52-02
+CPU % : 0.00
+Memory % : 0.13
+------------------------------------------------------------
+PID : 14552
+Name : HPMediaNetwork.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-52
+CPU % : 0.00
+Memory % : 0.12
+------------------------------------------------------------
+PID : 14608
+Name : dasHost.exe
+Username : None
+Status : running
+Start Time : 2026-02-12 00-10-17
+CPU % : 0.00
+Memory % : 0.07
+------------------------------------------------------------
+PID : 14632
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 00-52-02
+CPU % : 31.40
+Memory % : 0.87
+------------------------------------------------------------
+PID : 14896
+Name : dasHost.exe
+Username : None
+Status : running
+Start Time : 2026-02-12 00-10-18
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 14900
+Name : msedgewebview2.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 04-52-29
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 15064
+Name : OmenCommandCenterBackground.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-21
+CPU % : 39.90
+Memory % : 1.34
+------------------------------------------------------------
+PID : 15072
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-20-23
+CPU % : 1.40
+Memory % : 0.08
+------------------------------------------------------------
+PID : 15124
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-59-02
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 15260
+Name : python.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-51-14
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 15376
+Name : LockApp.exe
+Username : RAVIRAJS\ravir
+Status : stopped
+Start Time : 2026-02-13 17-43-41
+CPU % : 0.00
+Memory % : 0.28
+------------------------------------------------------------
+PID : 15512
+Name : OneDrive.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-27-47
+CPU % : 0.00
+Memory % : 0.87
+------------------------------------------------------------
+PID : 15588
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 02-53-32
+CPU % : 0.00
+Memory % : 0.45
+------------------------------------------------------------
+PID : 15592
+Name : cmd.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-50-58
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 15704
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-58-56
+CPU % : 0.00
+Memory % : 0.09
+------------------------------------------------------------
+PID : 15768
+Name : msedgewebview2.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 04-52-28
+CPU % : 0.00
+Memory % : 0.09
+------------------------------------------------------------
+PID : 15776
+Name : conhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-51-06
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 15868
+Name : LightStudio-background.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-22
+CPU % : 10.70
+Memory % : 0.16
+------------------------------------------------------------
+PID : 15888
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-58-56
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 16044
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 00-52-01
+CPU % : 29.20
+Memory % : 0.60
+------------------------------------------------------------
+PID : 16136
+Name : ctfmon.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-57-24
+CPU % : 0.00
+Memory % : 0.12
+------------------------------------------------------------
+PID : 16512
+Name : ApplicationFrameHost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 00-01-42
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 16624
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-58-18
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 16632
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 21-16-50
+CPU % : 0.00
+Memory % : 0.32
+------------------------------------------------------------
+PID : 16668
+Name : svchost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-11 23-59-02
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 16696
+Name : FileSyncHelper.exe
+Username : None
+Status : running
+Start Time : 2026-02-14 01-27-50
+CPU % : 0.00
+Memory % : 0.16
+------------------------------------------------------------
+PID : 16908
+Name : conhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-05-39
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 16984
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-59-01
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 17004
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 00-58-31
+CPU % : 5.30
+Memory % : 2.99
+------------------------------------------------------------
+PID : 17032
+Name : sqlservr.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-58-57
+CPU % : 0.00
+Memory % : 0.51
+------------------------------------------------------------
+PID : 17060
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 00-58-31
+CPU % : 0.40
+Memory % : 0.46
+------------------------------------------------------------
+PID : 17156
+Name : WidgetService.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 00-45-10
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 17276
+Name : sqlceip.exe
+Username : None
+Status : running
+Start Time : 2026-02-11 23-59-01
+CPU % : 0.30
+Memory % : 0.12
+------------------------------------------------------------
+PID : 17456
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-44-22
+CPU % : 1.70
+Memory % : 0.40
+------------------------------------------------------------
+PID : 17604
+Name : AppActions.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 00-03-20
+CPU % : 0.00
+Memory % : 0.13
+------------------------------------------------------------
+PID : 17648
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-44-22
+CPU % : 0.00
+Memory % : 0.31
+------------------------------------------------------------
+PID : 18024
+Name : conhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-02-48
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 18052
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-51-10
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 18148
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 00-52-02
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 18212
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-02-39
+CPU % : 83.30
+Memory % : 2.96
+------------------------------------------------------------
+PID : 18224
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-12 00-01-43
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 18280
+Name : conhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-51-12
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 18496
+Name : RuntimeBroker.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 17-43-42
+CPU % : 0.00
+Memory % : 0.14
+------------------------------------------------------------
+PID : 18628
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 00-58-33
+CPU % : 0.00
+Memory % : 0.58
+------------------------------------------------------------
+PID : 18648
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-02-50
+CPU % : 0.00
+Memory % : 0.93
+------------------------------------------------------------
+PID : 18824
+Name : msedge.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-48-37
+CPU % : 0.00
+Memory % : 0.13
+------------------------------------------------------------
+PID : 18860
+Name : brave.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-29-38
+CPU % : 0.00
+Memory % : 0.67
+------------------------------------------------------------
+PID : 18968
+Name : conhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-02-44
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 19004
+Name : cmd.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-05-39
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 19184
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-51-04
+CPU % : 0.00
+Memory % : 1.08
+------------------------------------------------------------
+PID : 19208
+Name : browserhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-12-03
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 19240
+Name : backgroundTaskHost.exe
+Username : RAVIRAJS\ravir
+Status : stopped
+Start Time : 2026-02-13 15-14-25
+CPU % : 0.00
+Memory % : 0.00
+------------------------------------------------------------
+PID : 19420
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-02-40
+CPU % : 3.50
+Memory % : 1.53
+------------------------------------------------------------
+PID : 19556
+Name : git.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 20-52-51
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 19612
+Name : brave.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-29-46
+CPU % : 0.00
+Memory % : 0.06
+------------------------------------------------------------
+PID : 19800
+Name : msedge.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-48-35
+CPU % : 0.00
+Memory % : 0.18
+------------------------------------------------------------
+PID : 19824
+Name : UserOOBEBroker.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 02-41-01
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 19992
+Name : OpenConsole.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-50-58
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 20000
+Name : brave.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-29-38
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 20112
+Name : brave.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-29-38
+CPU % : 0.30
+Memory % : 0.18
+------------------------------------------------------------
+PID : 20196
+Name : brave.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-29-38
+CPU % : 0.00
+Memory % : 0.08
+------------------------------------------------------------
+PID : 20280
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 02-20-19
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 20428
+Name : backgroundTaskHost.exe
+Username : RAVIRAJS\ravir
+Status : stopped
+Start Time : 2026-02-14 00-12-13
+CPU % : 0.00
+Memory % : 0.00
+------------------------------------------------------------
+PID : 20676
+Name : brave.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-29-39
+CPU % : 0.00
+Memory % : 0.27
+------------------------------------------------------------
+PID : 20948
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-37-01
+CPU % : 0.00
+Memory % : 0.94
+------------------------------------------------------------
+PID : 21056
+Name : conhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-29-39
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 21200
+Name : brave.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-29-39
+CPU % : 0.00
+Memory % : 0.26
+------------------------------------------------------------
+PID : 21264
+Name : backgroundTaskHost.exe
+Username : RAVIRAJS\ravir
+Status : stopped
+Start Time : 2026-02-12 14-14-16
+CPU % : 0.00
+Memory % : 0.00
+------------------------------------------------------------
+PID : 21496
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-45-22
+CPU % : 0.10
+Memory % : 1.04
+------------------------------------------------------------
+PID : 21584
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 02-20-19
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 21688
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 21-16-48
+CPU % : 0.00
+Memory % : 0.68
+------------------------------------------------------------
+PID : 21948
+Name : cmd.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-29-39
+CPU % : 0.00
+Memory % : 0.00
+------------------------------------------------------------
+PID : 22200
+Name : PhoneExperienceHost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 14-14-17
+CPU % : 0.00
+Memory % : 0.23
+------------------------------------------------------------
+PID : 22372
+Name : browserhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-29-40
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 22504
+Name : brave.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 01-29-39
+CPU % : 0.00
+Memory % : 0.29
+------------------------------------------------------------
+PID : 22536
+Name : wlanext.exe
+Username : None
+Status : running
+Start Time : 2026-02-12 16-50-01
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 22712
+Name : CalculatorApp.exe
+Username : RAVIRAJS\ravir
+Status : stopped
+Start Time : 2026-02-12 12-12-08
+CPU % : 0.00
+Memory % : 0.00
+------------------------------------------------------------
+PID : 23364
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 02-05-02
+CPU % : 0.00
+Memory % : 0.50
+------------------------------------------------------------
+PID : 23392
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-12 13-37-53
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 23800
+Name : backgroundTaskHost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-48-19
+CPU % : 0.00
+Memory % : 0.16
+------------------------------------------------------------
+PID : 23884
+Name : browserhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-18-37
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 24220
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-18-34
+CPU % : 0.00
+Memory % : 0.20
+------------------------------------------------------------
+PID : 24348
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-58-46
+CPU % : 0.00
+Memory % : 1.36
+------------------------------------------------------------
+PID : 25556
+Name : git.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 14-19-16
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 25624
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-51-14
+CPU % : 0.00
+Memory % : 1.66
+------------------------------------------------------------
+PID : 26248
+Name : notepad++.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-48-21
+CPU % : 0.00
+Memory % : 0.16
+------------------------------------------------------------
+PID : 26292
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 20-24-07
+CPU % : 0.00
+Memory % : 0.10
+------------------------------------------------------------
+PID : 26420
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 12-25-17
+CPU % : 0.00
+Memory % : 0.57
+------------------------------------------------------------
+PID : 26436
+Name : SystemSettings.exe
+Username : RAVIRAJS\ravir
+Status : stopped
+Start Time : 2026-02-13 02-41-00
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 26572
+Name : git.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 14-12-51
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 26892
+Name : python.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-51-14
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 27000
+Name : python.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 02-53-37
+CPU % : 96.40
+Memory % : 0.17
+------------------------------------------------------------
+PID : 27072
+Name : taskhostw.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-12 13-52-11
+CPU % : 0.00
+Memory % : 0.20
+------------------------------------------------------------
+PID : 27144
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-13 02-52-40
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 27832
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-46-14
+CPU % : 0.00
+Memory % : 0.41
+------------------------------------------------------------
+PID : 28104
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-51-08
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 28304
+Name : msedge.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-48-35
+CPU % : 0.40
+Memory % : 0.57
+------------------------------------------------------------
+PID : 28556
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 20-24-00
+CPU % : 1.00
+Memory % : 1.10
+------------------------------------------------------------
+PID : 28572
+Name : conhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-50-58
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 28588
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-12 16-19-38
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 28676
+Name : CodeSetup-stable-b6a47e94e326b5c209d118cf0f994d6065585705.tmp
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 12-11-08
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 28748
+Name : ShellExperienceHost.exe
+Username : RAVIRAJS\ravir
+Status : stopped
+Start Time : 2026-02-13 04-52-22
+CPU % : 0.00
+Memory % : 0.00
+------------------------------------------------------------
+PID : 28968
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 02-27-18
+CPU % : 0.20
+Memory % : 0.26
+------------------------------------------------------------
+PID : 29048
+Name : conhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-18-37
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 29056
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 15-23-50
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 29072
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 02-27-18
+CPU % : 0.10
+Memory % : 0.69
+------------------------------------------------------------
+PID : 29772
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-46-10
+CPU % : 0.00
+Memory % : 0.77
+------------------------------------------------------------
+PID : 30000
+Name : CodeSetup-stable-b6a47e94e326b5c209d118cf0f994d6065585705.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 12-11-08
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 30008
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-12 13-53-23
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 30552
+Name : dllhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 12-12-20
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 31024
+Name : msedgewebview2.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 04-52-29
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 31180
+Name : browserhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-44-25
+CPU % : 0.00
+Memory % : 0.09
+------------------------------------------------------------
+PID : 31268
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-46-10
+CPU % : 0.00
+Memory % : 0.21
+------------------------------------------------------------
+PID : 31276
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 20-43-30
+CPU % : 0.10
+Memory % : 0.62
+------------------------------------------------------------
+PID : 31440
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-12 14-43-17
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 31464
+Name : cmd.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-18-36
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 31672
+Name : OneDrive.Sync.Service.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-27-48
+CPU % : 0.00
+Memory % : 0.29
+------------------------------------------------------------
+PID : 31720
+Name : SearchHost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 04-52-25
+CPU % : 0.00
+Memory % : 0.39
+------------------------------------------------------------
+PID : 31956
+Name : msedge.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-48-35
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 32332
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-58-42
+CPU % : 0.10
+Memory % : 1.33
+------------------------------------------------------------
+PID : 32508
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 21-16-47
+CPU % : 0.00
+Memory % : 1.00
+------------------------------------------------------------
+PID : 32624
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-57-19
+CPU % : 0.00
+Memory % : 1.42
+------------------------------------------------------------
+PID : 32732
+Name : msedge.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-48-36
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 32800
+Name : explorer.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 04-52-19
+CPU % : 6.40
+Memory % : 1.32
+------------------------------------------------------------
+PID : 32816
+Name : msedge.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-48-36
+CPU % : 0.00
+Memory % : 0.68
+------------------------------------------------------------
+PID : 32844
+Name : pet.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-51-12
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 33052
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 15-23-23
+CPU % : 0.00
+Memory % : 0.08
+------------------------------------------------------------
+PID : 33376
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 02-05-06
+CPU % : 0.20
+Memory % : 1.00
+------------------------------------------------------------
+PID : 33480
+Name : msedgewebview2.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 04-52-29
+CPU % : 0.00
+Memory % : 0.02
+------------------------------------------------------------
+PID : 33512
+Name : msedge.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-48-36
+CPU % : 0.00
+Memory % : 0.03
+------------------------------------------------------------
+PID : 33840
+Name : msedgewebview2.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 04-52-29
+CPU % : 0.00
+Memory % : 0.01
+------------------------------------------------------------
+PID : 33920
+Name : svchost.exe
+Username : None
+Status : running
+Start Time : 2026-02-14 01-44-59
+CPU % : 0.00
+Memory % : 0.04
+------------------------------------------------------------
+PID : 34252
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 02-54-32
+CPU % : 1.60
+Memory % : 1.30
+------------------------------------------------------------
+PID : 34644
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-46-12
+CPU % : 0.00
+Memory % : 1.73
+------------------------------------------------------------
+PID : 34900
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 02-53-33
+CPU % : 0.00
+Memory % : 0.20
+------------------------------------------------------------
+PID : 36012
+Name : conhost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-44-25
+CPU % : 0.00
+Memory % : 0.05
+------------------------------------------------------------
+PID : 36048
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 00-11-57
+CPU % : 0.00
+Memory % : 0.18
+------------------------------------------------------------
+PID : 36364
+Name : Code.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-13 13-51-05
+CPU % : 0.00
+Memory % : 0.46
+------------------------------------------------------------
+PID : 36420
+Name : HPSystemEventUtilityHost.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-45-05
+CPU % : 0.00
+Memory % : 0.20
+------------------------------------------------------------
+PID : 36440
+Name : chrome.exe
+Username : RAVIRAJS\ravir
+Status : running
+Start Time : 2026-02-14 01-45-24
+CPU % : 0.00
+Memory % : 0.31
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+
+--------------------Thread monitoring q1--------------------
+PID : 0
+Name : System Idle Process
+Threads : 48
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4
+Name : System
+Threads : 386
+Num Of Thread : None
+------------------------------------------------------------
+PID : 236
+Name : 
+Threads : 0
+Num Of Thread : None
+------------------------------------------------------------
+PID : 280
+Name : Registry
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 432
+Name : powershell.exe
+Threads : 9
+Num Of Thread : None
+------------------------------------------------------------
+PID : 692
+Name : RtkAudUService64.exe
+Threads : 15
+Num Of Thread : None
+------------------------------------------------------------
+PID : 832
+Name : smss.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 984
+Name : unsecapp.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1032
+Name : chrome.exe
+Threads : 27
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1052
+Name : WmiPrvSE.exe
+Threads : 7
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1220
+Name : csrss.exe
+Threads : 17
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1336
+Name : svchost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1340
+Name : wininit.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1348
+Name : csrss.exe
+Threads : 16
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1416
+Name : services.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1436
+Name : LsaIso.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1444
+Name : lsass.exe
+Threads : 12
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1508
+Name : winlogon.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1536
+Name : conhost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1564
+Name : svchost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1648
+Name : svchost.exe
+Threads : 12
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1680
+Name : fontdrvhost.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1688
+Name : fontdrvhost.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1700
+Name : WUDFHost.exe
+Threads : 17
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1728
+Name : svchost.exe
+Threads : 9
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1756
+Name : StartMenuExperienceHost.exe
+Threads : 16
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1812
+Name : svchost.exe
+Threads : 11
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1856
+Name : svchost.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1920
+Name : WUDFHost.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1984
+Name : msedge.exe
+Threads : 16
+Num Of Thread : None
+------------------------------------------------------------
+PID : 1996
+Name : dwm.exe
+Threads : 18
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2056
+Name : svchost.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2068
+Name : svchost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2088
+Name : svchost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2096
+Name : svchost.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2140
+Name : svchost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2236
+Name : svchost.exe
+Threads : 10
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2256
+Name : powershell.exe
+Threads : 9
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2276
+Name : svchost.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2288
+Name : svchost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2312
+Name : conhost.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2336
+Name : svchost.exe
+Threads : 7
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2348
+Name : svchost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2480
+Name : IntelCpHDCPSvc.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2500
+Name : Code.exe
+Threads : 17
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2504
+Name : svchost.exe
+Threads : 9
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2552
+Name : svchost.exe
+Threads : 11
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2560
+Name : svchost.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2588
+Name : svchost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2600
+Name : svchost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2608
+Name : svchost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2692
+Name : svchost.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2836
+Name : svchost.exe
+Threads : 7
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2868
+Name : svchost.exe
+Threads : 6
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2896
+Name : git.exe
+Threads : 11
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2916
+Name : chrome.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 2964
+Name : svchost.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3132
+Name : svchost.exe
+Threads : 6
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3276
+Name : audiodg.exe
+Threads : 19
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3280
+Name : svchost.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3300
+Name : svchost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3308
+Name : OmenCap.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3400
+Name : NVDisplay.Container.exe
+Threads : 39
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3424
+Name : python.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3436
+Name : conhost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3456
+Name : svchost.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3492
+Name : conhost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3528
+Name : svchost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3548
+Name : svchost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3584
+Name : svchost.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3592
+Name : svchost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3600
+Name : svchost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3712
+Name : MemCompression
+Threads : 70
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3760
+Name : svchost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3872
+Name : svchost.exe
+Threads : 9
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3960
+Name : svchost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3968
+Name : svchost.exe
+Threads : 6
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3976
+Name : DiagsCap.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3984
+Name : NetworkCap.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 3992
+Name : AppHelperCap.exe
+Threads : 16
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4000
+Name : TouchpointAnalyticsClientService.exe
+Threads : 11
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4008
+Name : SysInfoCap.exe
+Threads : 20
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4068
+Name : svchost.exe
+Threads : 10
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4124
+Name : svchost.exe
+Threads : 10
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4144
+Name : chrome.exe
+Threads : 27
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4180
+Name : svchost.exe
+Threads : 11
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4260
+Name : NVDisplay.Container.exe
+Threads : 28
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4284
+Name : svchost.exe
+Threads : 6
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4416
+Name : Code.exe
+Threads : 32
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4516
+Name : svchost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4568
+Name : svchost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4748
+Name : WmiPrvSE.exe
+Threads : 7
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4840
+Name : RuntimeBroker.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4888
+Name : WindowsTerminal.exe
+Threads : 14
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4904
+Name : svchost.exe
+Threads : 9
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4980
+Name : unsecapp.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4992
+Name : SecurityHealthSystray.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 4996
+Name : svchost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5004
+Name : SecurityHealthService.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5056
+Name : svchost.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5064
+Name : Code.exe
+Threads : 27
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5116
+Name : svchost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5124
+Name : svchost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5160
+Name : svchost.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5248
+Name : svchost.exe
+Threads : 16
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5260
+Name : svchost.exe
+Threads : 15
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5320
+Name : svchost.exe
+Threads : 6
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5380
+Name : spoolsv.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5468
+Name : svchost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5544
+Name : AnyDesk.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5556
+Name : svchost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5564
+Name : OneApp.IGCC.WinService.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5572
+Name : svchost.exe
+Threads : 12
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5580
+Name : ETDService.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5588
+Name : nssm.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5616
+Name : svchost.exe
+Threads : 18
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5632
+Name : HPCommRecovery.exe
+Threads : 6
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5640
+Name : OfficeClickToRun.exe
+Threads : 19
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5660
+Name : HPPrintScanDoctorService.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5672
+Name : IntelAudioService.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5684
+Name : ipf_uf.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5696
+Name : jhi_service.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5704
+Name : svchost.exe
+Threads : 6
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5732
+Name : chrome.exe
+Threads : 30
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5736
+Name : servicehost.exe
+Threads : 92
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5804
+Name : MpDefenderCoreService.exe
+Threads : 9
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5812
+Name : SECOMN64.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5820
+Name : RtkAudUService64.exe
+Threads : 20
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5832
+Name : SafeExamBrowser.Service.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5840
+Name : sqlwriter.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5880
+Name : mysqld.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 5960
+Name : svchost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 6004
+Name : WMIRegistrationService.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 6016
+Name : MsMpEng.exe
+Threads : 66
+Num Of Thread : None
+------------------------------------------------------------
+PID : 6024
+Name : svchost.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 6096
+Name : wslservice.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 6212
+Name : XtuService.exe
+Threads : 9
+Num Of Thread : None
+------------------------------------------------------------
+PID : 6256
+Name : expressvpnd.exe
+Threads : 20
+Num Of Thread : None
+------------------------------------------------------------
+PID : 6344
+Name : brave.exe
+Threads : 28
+Num Of Thread : None
+------------------------------------------------------------
+PID : 6432
+Name : brave.exe
+Threads : 9
+Num Of Thread : None
+------------------------------------------------------------
+PID : 6496
+Name : conhost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 6648
+Name : SystemOptimizer.exe
+Threads : 12
+Num Of Thread : None
+------------------------------------------------------------
+PID : 6792
+Name : mysqld.exe
+Threads : 39
+Num Of Thread : None
+------------------------------------------------------------
+PID : 6824
+Name : conhost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 7012
+Name : powershell.exe
+Threads : 9
+Num Of Thread : None
+------------------------------------------------------------
+PID : 7180
+Name : brave.exe
+Threads : 48
+Num Of Thread : None
+------------------------------------------------------------
+PID : 7420
+Name : taskhostw.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 7448
+Name : svchost.exe
+Threads : 7
+Num Of Thread : None
+------------------------------------------------------------
+PID : 7580
+Name : svchost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 7648
+Name : OmenInstallMonitor.exe
+Threads : 9
+Num Of Thread : None
+------------------------------------------------------------
+PID : 7884
+Name : HP.HPX.exe
+Threads : 9
+Num Of Thread : None
+------------------------------------------------------------
+PID : 8120
+Name : svchost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 8168
+Name : brave.exe
+Threads : 11
+Num Of Thread : None
+------------------------------------------------------------
+PID : 8252
+Name : chrome.exe
+Threads : 39
+Num Of Thread : None
+------------------------------------------------------------
+PID : 8264
+Name : RtkAudUService64.exe
+Threads : 6
+Num Of Thread : None
+------------------------------------------------------------
+PID : 8368
+Name : svchost.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 8456
+Name : RuntimeBroker.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 8484
+Name : svchost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 8512
+Name : python.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 8728
+Name : NisSrv.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 8792
+Name : AggregatorHost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 9032
+Name : svchost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 9140
+Name : svchost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 9172
+Name : NgcIso.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 9268
+Name : OpenConsole.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 9660
+Name : OverlayHelper.exe
+Threads : 20
+Num Of Thread : None
+------------------------------------------------------------
+PID : 9668
+Name : HPSystemEventUtilityBackground.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 9872
+Name : ipf_helper.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 9896
+Name : uihost.exe
+Threads : 65
+Num Of Thread : None
+------------------------------------------------------------
+PID : 9956
+Name : ETDCtrl.exe
+Threads : 13
+Num Of Thread : None
+------------------------------------------------------------
+PID : 10052
+Name : sihost.exe
+Threads : 12
+Num Of Thread : None
+------------------------------------------------------------
+PID : 10416
+Name : BraveCrashHandler64.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 10504
+Name : BraveCrashHandler.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 10628
+Name : svchost.exe
+Threads : 10
+Num Of Thread : None
+------------------------------------------------------------
+PID : 10736
+Name : chrome.exe
+Threads : 32
+Num Of Thread : None
+------------------------------------------------------------
+PID : 10748
+Name : CrossDeviceResume.exe
+Threads : 6
+Num Of Thread : None
+------------------------------------------------------------
+PID : 10836
+Name : conhost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 10984
+Name : Code.exe
+Threads : 27
+Num Of Thread : None
+------------------------------------------------------------
+PID : 11036
+Name : chrome.exe
+Threads : 31
+Num Of Thread : None
+------------------------------------------------------------
+PID : 11056
+Name : conhost.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 11196
+Name : conhost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 11228
+Name : SECOCL64.exe
+Threads : 6
+Num Of Thread : None
+------------------------------------------------------------
+PID : 11328
+Name : svchost.exe
+Threads : 9
+Num Of Thread : None
+------------------------------------------------------------
+PID : 11384
+Name : chrome.exe
+Threads : 26
+Num Of Thread : None
+------------------------------------------------------------
+PID : 11524
+Name : svchost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 11552
+Name : msedgewebview2.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 11872
+Name : SearchIndexer.exe
+Threads : 9
+Num Of Thread : None
+------------------------------------------------------------
+PID : 11896
+Name : svchost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 11964
+Name : chrome.exe
+Threads : 28
+Num Of Thread : None
+------------------------------------------------------------
+PID : 12004
+Name : git.exe
+Threads : 11
+Num Of Thread : None
+------------------------------------------------------------
+PID : 12008
+Name : svchost.exe
+Threads : 11
+Num Of Thread : None
+------------------------------------------------------------
+PID : 12204
+Name : chrome.exe
+Threads : 13
+Num Of Thread : None
+------------------------------------------------------------
+PID : 12256
+Name : conhost.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 12308
+Name : powershell.exe
+Threads : 9
+Num Of Thread : None
+------------------------------------------------------------
+PID : 12340
+Name : chrome.exe
+Threads : 12
+Num Of Thread : None
+------------------------------------------------------------
+PID : 12344
+Name : chrome.exe
+Threads : 27
+Num Of Thread : None
+------------------------------------------------------------
+PID : 12412
+Name : cmd.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 12444
+Name : cmd.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 12492
+Name : DesktopExtension.exe
+Threads : 13
+Num Of Thread : None
+------------------------------------------------------------
+PID : 12556
+Name : svchost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 12864
+Name : Code.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 12872
+Name : ShellHost.exe
+Threads : 6
+Num Of Thread : None
+------------------------------------------------------------
+PID : 12904
+Name : pet.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 13148
+Name : Widgets.exe
+Threads : 9
+Num Of Thread : None
+------------------------------------------------------------
+PID : 13276
+Name : svchost.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 13608
+Name : brave.exe
+Threads : 14
+Num Of Thread : None
+------------------------------------------------------------
+PID : 13652
+Name : svchost.exe
+Threads : 12
+Num Of Thread : None
+------------------------------------------------------------
+PID : 13668
+Name : SDXHelper.exe
+Threads : 14
+Num Of Thread : None
+------------------------------------------------------------
+PID : 13732
+Name : svchost.exe
+Threads : 18
+Num Of Thread : None
+------------------------------------------------------------
+PID : 13824
+Name : git.exe
+Threads : 11
+Num Of Thread : None
+------------------------------------------------------------
+PID : 13840
+Name : svchost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 13892
+Name : Code.exe
+Threads : 24
+Num Of Thread : None
+------------------------------------------------------------
+PID : 13912
+Name : svchost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 14016
+Name : Code.exe
+Threads : 20
+Num Of Thread : None
+------------------------------------------------------------
+PID : 14552
+Name : HPMediaNetwork.exe
+Threads : 9
+Num Of Thread : None
+------------------------------------------------------------
+PID : 14608
+Name : dasHost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 14632
+Name : Code.exe
+Threads : 21
+Num Of Thread : None
+------------------------------------------------------------
+PID : 14896
+Name : dasHost.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 14900
+Name : msedgewebview2.exe
+Threads : 21
+Num Of Thread : None
+------------------------------------------------------------
+PID : 15064
+Name : OmenCommandCenterBackground.exe
+Threads : 120
+Num Of Thread : None
+------------------------------------------------------------
+PID : 15072
+Name : chrome.exe
+Threads : 12
+Num Of Thread : None
+------------------------------------------------------------
+PID : 15124
+Name : svchost.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 15260
+Name : python.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 15376
+Name : LockApp.exe
+Threads : 21
+Num Of Thread : None
+------------------------------------------------------------
+PID : 15512
+Name : OneDrive.exe
+Threads : 37
+Num Of Thread : None
+------------------------------------------------------------
+PID : 15588
+Name : chrome.exe
+Threads : 20
+Num Of Thread : None
+------------------------------------------------------------
+PID : 15592
+Name : cmd.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 15704
+Name : svchost.exe
+Threads : 11
+Num Of Thread : None
+------------------------------------------------------------
+PID : 15768
+Name : msedgewebview2.exe
+Threads : 51
+Num Of Thread : None
+------------------------------------------------------------
+PID : 15776
+Name : conhost.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 15868
+Name : LightStudio-background.exe
+Threads : 42
+Num Of Thread : None
+------------------------------------------------------------
+PID : 15888
+Name : svchost.exe
+Threads : 6
+Num Of Thread : None
+------------------------------------------------------------
+PID : 16044
+Name : Code.exe
+Threads : 59
+Num Of Thread : None
+------------------------------------------------------------
+PID : 16136
+Name : ctfmon.exe
+Threads : 12
+Num Of Thread : None
+------------------------------------------------------------
+PID : 16512
+Name : ApplicationFrameHost.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 16624
+Name : svchost.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 16632
+Name : chrome.exe
+Threads : 23
+Num Of Thread : None
+------------------------------------------------------------
+PID : 16668
+Name : svchost.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 16696
+Name : FileSyncHelper.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 16908
+Name : conhost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 16984
+Name : svchost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 17004
+Name : chrome.exe
+Threads : 48
+Num Of Thread : None
+------------------------------------------------------------
+PID : 17032
+Name : sqlservr.exe
+Threads : 87
+Num Of Thread : None
+------------------------------------------------------------
+PID : 17060
+Name : chrome.exe
+Threads : 30
+Num Of Thread : None
+------------------------------------------------------------
+PID : 17156
+Name : WidgetService.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 17276
+Name : sqlceip.exe
+Threads : 12
+Num Of Thread : None
+------------------------------------------------------------
+PID : 17456
+Name : chrome.exe
+Threads : 40
+Num Of Thread : None
+------------------------------------------------------------
+PID : 17604
+Name : AppActions.exe
+Threads : 7
+Num Of Thread : None
+------------------------------------------------------------
+PID : 17648
+Name : chrome.exe
+Threads : 27
+Num Of Thread : None
+------------------------------------------------------------
+PID : 18024
+Name : conhost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 18052
+Name : Code.exe
+Threads : 12
+Num Of Thread : None
+------------------------------------------------------------
+PID : 18148
+Name : Code.exe
+Threads : 7
+Num Of Thread : None
+------------------------------------------------------------
+PID : 18212
+Name : Code.exe
+Threads : 30
+Num Of Thread : None
+------------------------------------------------------------
+PID : 18224
+Name : svchost.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 18280
+Name : conhost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 18496
+Name : RuntimeBroker.exe
+Threads : 16
+Num Of Thread : None
+------------------------------------------------------------
+PID : 18628
+Name : chrome.exe
+Threads : 31
+Num Of Thread : None
+------------------------------------------------------------
+PID : 18648
+Name : Code.exe
+Threads : 12
+Num Of Thread : None
+------------------------------------------------------------
+PID : 18824
+Name : msedge.exe
+Threads : 30
+Num Of Thread : None
+------------------------------------------------------------
+PID : 18860
+Name : brave.exe
+Threads : 53
+Num Of Thread : None
+------------------------------------------------------------
+PID : 18968
+Name : conhost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 19004
+Name : cmd.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 19184
+Name : Code.exe
+Threads : 27
+Num Of Thread : None
+------------------------------------------------------------
+PID : 19208
+Name : browserhost.exe
+Threads : 46
+Num Of Thread : None
+------------------------------------------------------------
+PID : 19240
+Name : backgroundTaskHost.exe
+Threads : 13
+Num Of Thread : None
+------------------------------------------------------------
+PID : 19420
+Name : Code.exe
+Threads : 27
+Num Of Thread : None
+------------------------------------------------------------
+PID : 19556
+Name : git.exe
+Threads : 11
+Num Of Thread : None
+------------------------------------------------------------
+PID : 19612
+Name : brave.exe
+Threads : 23
+Num Of Thread : None
+------------------------------------------------------------
+PID : 19800
+Name : msedge.exe
+Threads : 19
+Num Of Thread : None
+------------------------------------------------------------
+PID : 19824
+Name : UserOOBEBroker.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 19992
+Name : OpenConsole.exe
+Threads : 7
+Num Of Thread : None
+------------------------------------------------------------
+PID : 20000
+Name : brave.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 20112
+Name : brave.exe
+Threads : 23
+Num Of Thread : None
+------------------------------------------------------------
+PID : 20196
+Name : brave.exe
+Threads : 28
+Num Of Thread : None
+------------------------------------------------------------
+PID : 20280
+Name : Code.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 20428
+Name : backgroundTaskHost.exe
+Threads : 13
+Num Of Thread : None
+------------------------------------------------------------
+PID : 20676
+Name : brave.exe
+Threads : 28
+Num Of Thread : None
+------------------------------------------------------------
+PID : 20948
+Name : chrome.exe
+Threads : 28
+Num Of Thread : None
+------------------------------------------------------------
+PID : 21056
+Name : conhost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 21200
+Name : brave.exe
+Threads : 28
+Num Of Thread : None
+------------------------------------------------------------
+PID : 21264
+Name : backgroundTaskHost.exe
+Threads : 13
+Num Of Thread : None
+------------------------------------------------------------
+PID : 21496
+Name : chrome.exe
+Threads : 29
+Num Of Thread : None
+------------------------------------------------------------
+PID : 21584
+Name : Code.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 21688
+Name : chrome.exe
+Threads : 29
+Num Of Thread : None
+------------------------------------------------------------
+PID : 21948
+Name : cmd.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 22200
+Name : PhoneExperienceHost.exe
+Threads : 22
+Num Of Thread : None
+------------------------------------------------------------
+PID : 22372
+Name : browserhost.exe
+Threads : 46
+Num Of Thread : None
+------------------------------------------------------------
+PID : 22504
+Name : brave.exe
+Threads : 28
+Num Of Thread : None
+------------------------------------------------------------
+PID : 22536
+Name : wlanext.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 22712
+Name : CalculatorApp.exe
+Threads : 14
+Num Of Thread : None
+------------------------------------------------------------
+PID : 23364
+Name : chrome.exe
+Threads : 20
+Num Of Thread : None
+------------------------------------------------------------
+PID : 23392
+Name : svchost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 23800
+Name : backgroundTaskHost.exe
+Threads : 7
+Num Of Thread : None
+------------------------------------------------------------
+PID : 23884
+Name : browserhost.exe
+Threads : 46
+Num Of Thread : None
+------------------------------------------------------------
+PID : 24220
+Name : chrome.exe
+Threads : 28
+Num Of Thread : None
+------------------------------------------------------------
+PID : 24348
+Name : chrome.exe
+Threads : 30
+Num Of Thread : None
+------------------------------------------------------------
+PID : 25556
+Name : git.exe
+Threads : 11
+Num Of Thread : None
+------------------------------------------------------------
+PID : 25624
+Name : Code.exe
+Threads : 15
+Num Of Thread : None
+------------------------------------------------------------
+PID : 26248
+Name : notepad++.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 26292
+Name : chrome.exe
+Threads : 21
+Num Of Thread : None
+------------------------------------------------------------
+PID : 26420
+Name : chrome.exe
+Threads : 29
+Num Of Thread : None
+------------------------------------------------------------
+PID : 26436
+Name : SystemSettings.exe
+Threads : 46
+Num Of Thread : None
+------------------------------------------------------------
+PID : 26572
+Name : git.exe
+Threads : 11
+Num Of Thread : None
+------------------------------------------------------------
+PID : 26892
+Name : python.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 27000
+Name : python.exe
+Threads : 4
+Num Of Thread : None
+------------------------------------------------------------
+PID : 27072
+Name : taskhostw.exe
+Threads : 7
+Num Of Thread : None
+------------------------------------------------------------
+PID : 27144
+Name : svchost.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 27832
+Name : chrome.exe
+Threads : 20
+Num Of Thread : None
+------------------------------------------------------------
+PID : 28104
+Name : Code.exe
+Threads : 8
+Num Of Thread : None
+------------------------------------------------------------
+PID : 28304
+Name : msedge.exe
+Threads : 56
+Num Of Thread : None
+------------------------------------------------------------
+PID : 28556
+Name : chrome.exe
+Threads : 30
+Num Of Thread : None
+------------------------------------------------------------
+PID : 28572
+Name : conhost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 28588
+Name : svchost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 28676
+Name : CodeSetup-stable-b6a47e94e326b5c209d118cf0f994d6065585705.tmp
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 28748
+Name : ShellExperienceHost.exe
+Threads : 20
+Num Of Thread : None
+------------------------------------------------------------
+PID : 28968
+Name : chrome.exe
+Threads : 28
+Num Of Thread : None
+------------------------------------------------------------
+PID : 29048
+Name : conhost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 29056
+Name : chrome.exe
+Threads : 21
+Num Of Thread : None
+------------------------------------------------------------
+PID : 29072
+Name : chrome.exe
+Threads : 29
+Num Of Thread : None
+------------------------------------------------------------
+PID : 29772
+Name : chrome.exe
+Threads : 27
+Num Of Thread : None
+------------------------------------------------------------
+PID : 30000
+Name : CodeSetup-stable-b6a47e94e326b5c209d118cf0f994d6065585705.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 30008
+Name : svchost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 30552
+Name : dllhost.exe
+Threads : 2
+Num Of Thread : None
+------------------------------------------------------------
+PID : 31024
+Name : msedgewebview2.exe
+Threads : 20
+Num Of Thread : None
+------------------------------------------------------------
+PID : 31180
+Name : browserhost.exe
+Threads : 46
+Num Of Thread : None
+------------------------------------------------------------
+PID : 31268
+Name : chrome.exe
+Threads : 14
+Num Of Thread : None
+------------------------------------------------------------
+PID : 31276
+Name : chrome.exe
+Threads : 30
+Num Of Thread : None
+------------------------------------------------------------
+PID : 31440
+Name : svchost.exe
+Threads : 5
+Num Of Thread : None
+------------------------------------------------------------
+PID : 31464
+Name : cmd.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 31672
+Name : OneDrive.Sync.Service.exe
+Threads : 15
+Num Of Thread : None
+------------------------------------------------------------
+PID : 31720
+Name : SearchHost.exe
+Threads : 24
+Num Of Thread : None
+------------------------------------------------------------
+PID : 31956
+Name : msedge.exe
+Threads : 7
+Num Of Thread : None
+------------------------------------------------------------
+PID : 32332
+Name : chrome.exe
+Threads : 30
+Num Of Thread : None
+------------------------------------------------------------
+PID : 32508
+Name : chrome.exe
+Threads : 29
+Num Of Thread : None
+------------------------------------------------------------
+PID : 32624
+Name : chrome.exe
+Threads : 31
+Num Of Thread : None
+------------------------------------------------------------
+PID : 32732
+Name : msedge.exe
+Threads : 14
+Num Of Thread : None
+------------------------------------------------------------
+PID : 32800
+Name : explorer.exe
+Threads : 108
+Num Of Thread : None
+------------------------------------------------------------
+PID : 32816
+Name : msedge.exe
+Threads : 27
+Num Of Thread : None
+------------------------------------------------------------
+PID : 32844
+Name : pet.exe
+Threads : 1
+Num Of Thread : None
+------------------------------------------------------------
+PID : 33052
+Name : chrome.exe
+Threads : 27
+Num Of Thread : None
+------------------------------------------------------------
+PID : 33376
+Name : chrome.exe
+Threads : 28
+Num Of Thread : None
+------------------------------------------------------------
+PID : 33480
+Name : msedgewebview2.exe
+Threads : 30
+Num Of Thread : None
+------------------------------------------------------------
+PID : 33512
+Name : msedge.exe
+Threads : 9
+Num Of Thread : None
+------------------------------------------------------------
+PID : 33840
+Name : msedgewebview2.exe
+Threads : 10
+Num Of Thread : None
+------------------------------------------------------------
+PID : 33920
+Name : svchost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 34252
+Name : chrome.exe
+Threads : 27
+Num Of Thread : None
+------------------------------------------------------------
+PID : 34644
+Name : chrome.exe
+Threads : 28
+Num Of Thread : None
+------------------------------------------------------------
+PID : 34900
+Name : chrome.exe
+Threads : 13
+Num Of Thread : None
+------------------------------------------------------------
+PID : 36012
+Name : conhost.exe
+Threads : 3
+Num Of Thread : None
+------------------------------------------------------------
+PID : 36048
+Name : chrome.exe
+Threads : 28
+Num Of Thread : None
+------------------------------------------------------------
+PID : 36364
+Name : Code.exe
+Threads : 26
+Num Of Thread : None
+------------------------------------------------------------
+PID : 36420
+Name : HPSystemEventUtilityHost.exe
+Threads : 6
+Num Of Thread : None
+------------------------------------------------------------
+PID : 36440
+Name : chrome.exe
+Threads : 19
+Num Of Thread : None
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+
+-------------------- File monitoring q2 --------------------
+Open files :  % : 0.00
+------------------------------------------------------------
+Open files :  % : 6507.00
+------------------------------------------------------------
+Open files :  % : 0.00
+------------------------------------------------------------
+Open files :  % : 0.00
+------------------------------------------------------------
+Open files :  % : 467.00
+------------------------------------------------------------
+Open files :  % : 454.00
+------------------------------------------------------------
+Open files :  % : 58.00
+------------------------------------------------------------
+Open files :  % : 145.00
+------------------------------------------------------------
+Open files :  % : 346.00
+------------------------------------------------------------
+Open files :  % : 347.00
+------------------------------------------------------------
+Open files :  % : 895.00
+------------------------------------------------------------
+Open files :  % : 107.00
+------------------------------------------------------------
+Open files :  % : 163.00
+------------------------------------------------------------
+Open files :  % : 1188.00
+------------------------------------------------------------
+Open files :  % : 880.00
+------------------------------------------------------------
+Open files :  % : 62.00
+------------------------------------------------------------
+Open files :  % : 1987.00
+------------------------------------------------------------
+Open files :  % : 292.00
+------------------------------------------------------------
+Open files :  % : 96.00
+------------------------------------------------------------
+Open files :  % : 216.00
+------------------------------------------------------------
+Open files :  % : 1443.00
+------------------------------------------------------------
+Open files :  % : 43.00
+------------------------------------------------------------
+Open files :  % : 43.00
+------------------------------------------------------------
+Open files :  % : 491.00
+------------------------------------------------------------
+Open files :  % : 467.00
+------------------------------------------------------------
+Open files :  % : 1230.00
+------------------------------------------------------------
+Open files :  % : 1658.00
+------------------------------------------------------------
+Open files :  % : 345.00
+------------------------------------------------------------
+Open files :  % : 255.00
+------------------------------------------------------------
+Open files :  % : 467.00
+------------------------------------------------------------
+Open files :  % : 2153.00
+------------------------------------------------------------
+Open files :  % : 255.00
+------------------------------------------------------------
+Open files :  % : 299.00
+------------------------------------------------------------
+Open files :  % : 175.00
+------------------------------------------------------------
+Open files :  % : 317.00
+------------------------------------------------------------
+Open files :  % : 788.00
+------------------------------------------------------------
+Open files :  % : 507.00
+------------------------------------------------------------
+Open files :  % : 517.00
+------------------------------------------------------------
+Open files :  % : 260.00
+------------------------------------------------------------
+Open files :  % : 295.00
+------------------------------------------------------------
+Open files :  % : 110.00
+------------------------------------------------------------
+Open files :  % : 241.00
+------------------------------------------------------------
+Open files :  % : 185.00
+------------------------------------------------------------
+Open files :  % : 150.00
+------------------------------------------------------------
+Open files :  % : 287.00
+------------------------------------------------------------
+Open files :  % : 343.00
+------------------------------------------------------------
+Open files :  % : 1209.00
+------------------------------------------------------------
+Open files :  % : 124.00
+------------------------------------------------------------
+Open files :  % : 203.00
+------------------------------------------------------------
+Open files :  % : 200.00
+------------------------------------------------------------
+Open files :  % : 215.00
+------------------------------------------------------------
+Open files :  % : 458.00
+------------------------------------------------------------
+Open files :  % : 340.00
+------------------------------------------------------------
+Open files :  % : 506.00
+------------------------------------------------------------
+Open files :  % : 134.00
+------------------------------------------------------------
+Open files :  % : 444.00
+------------------------------------------------------------
+Open files :  % : 170.00
+------------------------------------------------------------
+Open files :  % : 308.00
+------------------------------------------------------------
+Open files :  % : 541.00
+------------------------------------------------------------
+Open files :  % : 408.00
+------------------------------------------------------------
+Open files :  % : 205.00
+------------------------------------------------------------
+Open files :  % : 230.00
+------------------------------------------------------------
+Open files :  % : 533.00
+------------------------------------------------------------
+Open files :  % : 195.00
+------------------------------------------------------------
+Open files :  % : 96.00
+------------------------------------------------------------
+Open files :  % : 535.00
+------------------------------------------------------------
+Open files :  % : 119.00
+------------------------------------------------------------
+Open files :  % : 647.00
+------------------------------------------------------------
+Open files :  % : 213.00
+------------------------------------------------------------
+Open files :  % : 184.00
+------------------------------------------------------------
+Open files :  % : 241.00
+------------------------------------------------------------
+Open files :  % : 334.00
+------------------------------------------------------------
+Open files :  % : 0.00
+------------------------------------------------------------
+Open files :  % : 191.00
+------------------------------------------------------------
+Open files :  % : 270.00
+------------------------------------------------------------
+Open files :  % : 336.00
+------------------------------------------------------------
+Open files :  % : 189.00
+------------------------------------------------------------
+Open files :  % : 334.00
+------------------------------------------------------------
+Open files :  % : 277.00
+------------------------------------------------------------
+Open files :  % : 686.00
+------------------------------------------------------------
+Open files :  % : 789.00
+------------------------------------------------------------
+Open files :  % : 533.00
+------------------------------------------------------------
+Open files :  % : 248.00
+------------------------------------------------------------
+Open files :  % : 479.00
+------------------------------------------------------------
+Open files :  % : 295.00
+------------------------------------------------------------
+Open files :  % : 1081.00
+------------------------------------------------------------
+Open files :  % : 673.00
+------------------------------------------------------------
+Open files :  % : 556.00
+------------------------------------------------------------
+Open files :  % : 458.00
+------------------------------------------------------------
+Open files :  % : 343.00
+------------------------------------------------------------
+Open files :  % : 128.00
+------------------------------------------------------------
+Open files :  % : 323.00
+------------------------------------------------------------
+Open files :  % : 331.00
+------------------------------------------------------------
+Open files :  % : 743.00
+------------------------------------------------------------
+Open files :  % : 535.00
+------------------------------------------------------------
+Open files :  % : 141.00
+------------------------------------------------------------
+Open files :  % : 181.00
+------------------------------------------------------------
+Open files :  % : 1082.00
+------------------------------------------------------------
+Open files :  % : 422.00
+------------------------------------------------------------
+Open files :  % : 204.00
+------------------------------------------------------------
+Open files :  % : 399.00
+------------------------------------------------------------
+Open files :  % : 156.00
+------------------------------------------------------------
+Open files :  % : 222.00
+------------------------------------------------------------
+Open files :  % : 217.00
+------------------------------------------------------------
+Open files :  % : 625.00
+------------------------------------------------------------
+Open files :  % : 535.00
+------------------------------------------------------------
+Open files :  % : 278.00
+------------------------------------------------------------
+Open files :  % : 581.00
+------------------------------------------------------------
+Open files :  % : 183.00
+------------------------------------------------------------
+Open files :  % : 439.00
+------------------------------------------------------------
+Open files :  % : 119.00
+------------------------------------------------------------
+Open files :  % : 563.00
+------------------------------------------------------------
+Open files :  % : 773.00
+------------------------------------------------------------
+Open files :  % : 142.00
+------------------------------------------------------------
+Open files :  % : 138.00
+------------------------------------------------------------
+Open files :  % : 463.00
+------------------------------------------------------------
+Open files :  % : 337.00
+------------------------------------------------------------
+Open files :  % : 819.00
+------------------------------------------------------------
+Open files :  % : 259.00
+------------------------------------------------------------
+Open files :  % : 393.00
+------------------------------------------------------------
+Open files :  % : 148.00
+------------------------------------------------------------
+Open files :  % : 145.00
+------------------------------------------------------------
+Open files :  % : 399.00
+------------------------------------------------------------
+Open files :  % : 545.00
+------------------------------------------------------------
+Open files :  % : 849.00
+------------------------------------------------------------
+Open files :  % : 518.00
+------------------------------------------------------------
+Open files :  % : 471.00
+------------------------------------------------------------
+Open files :  % : 488.00
+------------------------------------------------------------
+Open files :  % : 362.00
+------------------------------------------------------------
+Open files :  % : 169.00
+------------------------------------------------------------
+Open files :  % : 146.00
+------------------------------------------------------------
+Open files :  % : 149.00
+------------------------------------------------------------
+Open files :  % : 279.00
+------------------------------------------------------------
+Open files :  % : 974.00
+------------------------------------------------------------
+Open files :  % : 493.00
+------------------------------------------------------------
+Open files :  % : 457.00
+------------------------------------------------------------
+Open files :  % : 685.00
+------------------------------------------------------------
+Open files :  % : 391.00
+------------------------------------------------------------
+Open files :  % : 539.00
+------------------------------------------------------------
+Open files :  % : 199.00
+------------------------------------------------------------
+Open files :  % : 142.00
+------------------------------------------------------------
+Open files :  % : 731.00
+------------------------------------------------------------
+Open files :  % : 508.00
+------------------------------------------------------------
+Open files :  % : 132.00
+------------------------------------------------------------
+Open files :  % : 476.00
+------------------------------------------------------------
+Open files :  % : 1772.00
+------------------------------------------------------------
+Open files :  % : 342.00
+------------------------------------------------------------
+Open files :  % : 278.00
+------------------------------------------------------------
+Open files :  % : 145.00
+------------------------------------------------------------
+Open files :  % : 656.00
+------------------------------------------------------------
+Open files :  % : 1380.00
+------------------------------------------------------------
+Open files :  % : 249.00
+------------------------------------------------------------
+Open files :  % : 231.00
+------------------------------------------------------------
+Open files :  % : 514.00
+------------------------------------------------------------
+Open files :  % : 404.00
+------------------------------------------------------------
+Open files :  % : 546.00
+------------------------------------------------------------
+Open files :  % : 269.00
+------------------------------------------------------------
+Open files :  % : 135.00
+------------------------------------------------------------
+Open files :  % : 156.00
+------------------------------------------------------------
+Open files :  % : 216.00
+------------------------------------------------------------
+Open files :  % : 225.00
+------------------------------------------------------------
+Open files :  % : 161.00
+------------------------------------------------------------
+Open files :  % : 209.00
+------------------------------------------------------------
+Open files :  % : 53.00
+------------------------------------------------------------
+Open files :  % : 234.00
+------------------------------------------------------------
+Open files :  % : 567.00
+------------------------------------------------------------
+Open files :  % : 548.00
+------------------------------------------------------------
+Open files :  % : 177.00
+------------------------------------------------------------
+Open files :  % : 588.00
+------------------------------------------------------------
+Open files :  % : 415.00
+------------------------------------------------------------
+Open files :  % : 959.00
+------------------------------------------------------------
+Open files :  % : 164.00
+------------------------------------------------------------
+Open files :  % : 183.00
+------------------------------------------------------------
+Open files :  % : 473.00
+------------------------------------------------------------
+Open files :  % : 537.00
+------------------------------------------------------------
+Open files :  % : 503.00
+------------------------------------------------------------
+Open files :  % : 96.00
+------------------------------------------------------------
+Open files :  % : 399.00
+------------------------------------------------------------
+Open files :  % : 3222.00
+------------------------------------------------------------
+Open files :  % : 110.00
+------------------------------------------------------------
+Open files :  % : 99.00
+------------------------------------------------------------
+Open files :  % : 386.00
+------------------------------------------------------------
+Open files :  % : 270.00
+------------------------------------------------------------
+Open files :  % : 323.00
+------------------------------------------------------------
+Open files :  % : 199.00
+------------------------------------------------------------
+Open files :  % : 150.00
+------------------------------------------------------------
+Open files :  % : 1093.00
+------------------------------------------------------------
+Open files :  % : 292.00
+------------------------------------------------------------
+Open files :  % : 347.00
+------------------------------------------------------------
+Open files :  % : 134.00
+------------------------------------------------------------
+Open files :  % : 417.00
+------------------------------------------------------------
+Open files :  % : 293.00
+------------------------------------------------------------
+Open files :  % : 110.00
+------------------------------------------------------------
+Open files :  % : 475.00
+------------------------------------------------------------
+Open files :  % : 544.00
+------------------------------------------------------------
+Open files :  % : 296.00
+------------------------------------------------------------
+Open files :  % : 56.00
+------------------------------------------------------------
+Open files :  % : 56.00
+------------------------------------------------------------
+Open files :  % : 552.00
+------------------------------------------------------------
+Open files :  % : 317.00
+------------------------------------------------------------
+Open files :  % : 190.00
+------------------------------------------------------------
+Open files :  % : 441.00
+------------------------------------------------------------
+Open files :  % : 63.00
+------------------------------------------------------------
+Open files :  % : 704.00
+------------------------------------------------------------
+Open files :  % : 361.00
+------------------------------------------------------------
+Open files :  % : 250.00
+------------------------------------------------------------
+Open files :  % : 494.00
+------------------------------------------------------------
+Open files :  % : 707.00
+------------------------------------------------------------
+Open files :  % : 256.00
+------------------------------------------------------------
+Open files :  % : 134.00
+------------------------------------------------------------
+Open files :  % : 153.00
+------------------------------------------------------------
+Open files :  % : 358.00
+------------------------------------------------------------
+Open files :  % : 326.00
+------------------------------------------------------------
+Open files :  % : 389.00
+------------------------------------------------------------
+Open files :  % : 573.00
+------------------------------------------------------------
+Open files :  % : 280.00
+------------------------------------------------------------
+Open files :  % : 1200.00
+------------------------------------------------------------
+Open files :  % : 152.00
+------------------------------------------------------------
+Open files :  % : 897.00
+------------------------------------------------------------
+Open files :  % : 3361.00
+------------------------------------------------------------
+Open files :  % : 293.00
+------------------------------------------------------------
+Open files :  % : 261.00
+------------------------------------------------------------
+Open files :  % : 200.00
+------------------------------------------------------------
+Open files :  % : 900.00
+------------------------------------------------------------
+Open files :  % : 1200.00
+------------------------------------------------------------
+Open files :  % : 272.00
+------------------------------------------------------------
+Open files :  % : 74.00
+------------------------------------------------------------
+Open files :  % : 396.00
+------------------------------------------------------------
+Open files :  % : 1309.00
+------------------------------------------------------------
+Open files :  % : 110.00
+------------------------------------------------------------
+Open files :  % : 902.00
+------------------------------------------------------------
+Open files :  % : 182.00
+------------------------------------------------------------
+Open files :  % : 1358.00
+------------------------------------------------------------
+Open files :  % : 598.00
+------------------------------------------------------------
+Open files :  % : 487.00
+------------------------------------------------------------
+Open files :  % : 276.00
+------------------------------------------------------------
+Open files :  % : 315.00
+------------------------------------------------------------
+Open files :  % : 411.00
+------------------------------------------------------------
+Open files :  % : 455.00
+------------------------------------------------------------
+Open files :  % : 140.00
+------------------------------------------------------------
+Open files :  % : 197.00
+------------------------------------------------------------
+Open files :  % : 4271.00
+------------------------------------------------------------
+Open files :  % : 763.00
+------------------------------------------------------------
+Open files :  % : 725.00
+------------------------------------------------------------
+Open files :  % : 312.00
+------------------------------------------------------------
+Open files :  % : 746.00
+------------------------------------------------------------
+Open files :  % : 531.00
+------------------------------------------------------------
+Open files :  % : 388.00
+------------------------------------------------------------
+Open files :  % : 296.00
+------------------------------------------------------------
+Open files :  % : 96.00
+------------------------------------------------------------
+Open files :  % : 276.00
+------------------------------------------------------------
+Open files :  % : 300.00
+------------------------------------------------------------
+Open files :  % : 686.00
+------------------------------------------------------------
+Open files :  % : 157.00
+------------------------------------------------------------
+Open files :  % : 99.00
+------------------------------------------------------------
+Open files :  % : 479.00
+------------------------------------------------------------
+Open files :  % : 485.00
+------------------------------------------------------------
+Open files :  % : 283.00
+------------------------------------------------------------
+Open files :  % : 394.00
+------------------------------------------------------------
+Open files :  % : 851.00
+------------------------------------------------------------
+Open files :  % : 99.00
+------------------------------------------------------------
+Open files :  % : 80.00
+------------------------------------------------------------
+Open files :  % : 635.00
+------------------------------------------------------------
+Open files :  % : 301.00
+------------------------------------------------------------
+Open files :  % : 325.00
+------------------------------------------------------------
+Open files :  % : 597.00
+------------------------------------------------------------
+Open files :  % : 134.00
+------------------------------------------------------------
+Open files :  % : 388.00
+------------------------------------------------------------
+Open files :  % : 361.00
+------------------------------------------------------------
+Open files :  % : 140.00
+------------------------------------------------------------
+Open files :  % : 231.00
+------------------------------------------------------------
+Open files :  % : 200.00
+------------------------------------------------------------
+Open files :  % : 443.00
+------------------------------------------------------------
+Open files :  % : 317.00
+------------------------------------------------------------
+Open files :  % : 201.00
+------------------------------------------------------------
+Open files :  % : 323.00
+------------------------------------------------------------
+Open files :  % : 555.00
+------------------------------------------------------------
+Open files :  % : 500.00
+------------------------------------------------------------
+Open files :  % : 119.00
+------------------------------------------------------------
+Open files :  % : 568.00
+------------------------------------------------------------
+Open files :  % : 326.00
+------------------------------------------------------------
+Open files :  % : 578.00
+------------------------------------------------------------
+Open files :  % : 202.00
+------------------------------------------------------------
+Open files :  % : 580.00
+------------------------------------------------------------
+Open files :  % : 56.00
+------------------------------------------------------------
+Open files :  % : 1617.00
+------------------------------------------------------------
+Open files :  % : 262.00
+------------------------------------------------------------
+Open files :  % : 557.00
+------------------------------------------------------------
+Open files :  % : 124.00
+------------------------------------------------------------
+Open files :  % : 600.00
+------------------------------------------------------------
+Open files :  % : 324.00
+------------------------------------------------------------
+Open files :  % : 120.00
+------------------------------------------------------------
+Open files :  % : 451.00
+------------------------------------------------------------
+Open files :  % : 305.00
+------------------------------------------------------------
+Open files :  % : 302.00
+------------------------------------------------------------
+Open files :  % : 446.00
+------------------------------------------------------------
+Open files :  % : 130.00
+------------------------------------------------------------
+Open files :  % : 285.00
+------------------------------------------------------------
+Open files :  % : 482.00
+------------------------------------------------------------
+Open files :  % : 308.00
+------------------------------------------------------------
+Open files :  % : 418.00
+------------------------------------------------------------
+Open files :  % : 1601.00
+------------------------------------------------------------
+Open files :  % : 134.00
+------------------------------------------------------------
+Open files :  % : 161.00
+------------------------------------------------------------
+Open files :  % : 154.00
+------------------------------------------------------------
+Open files :  % : 660.00
+------------------------------------------------------------
+Open files :  % : 109.00
+------------------------------------------------------------
+Open files :  % : 288.00
+------------------------------------------------------------
+Open files :  % : 185.00
+------------------------------------------------------------
+Open files :  % : 1666.00
+------------------------------------------------------------
+Open files :  % : 585.00
+------------------------------------------------------------
+Open files :  % : 139.00
+------------------------------------------------------------
+Open files :  % : 168.00
+------------------------------------------------------------
+Open files :  % : 381.00
+------------------------------------------------------------
+Open files :  % : 635.00
+------------------------------------------------------------
+Open files :  % : 358.00
+------------------------------------------------------------
+Open files :  % : 119.00
+------------------------------------------------------------
+Open files :  % : 307.00
+------------------------------------------------------------
+Open files :  % : 449.00
+------------------------------------------------------------
+Open files :  % : 293.00
+------------------------------------------------------------
+Open files :  % : 171.00
+------------------------------------------------------------
+Open files :  % : 120.00
+------------------------------------------------------------
+Open files :  % : 191.00
+------------------------------------------------------------
+Open files :  % : 371.00
+------------------------------------------------------------
+Open files :  % : 302.00
+------------------------------------------------------------
+Open files :  % : 248.00
+------------------------------------------------------------
+Open files :  % : 458.00
+------------------------------------------------------------
+Open files :  % : 198.00
+------------------------------------------------------------
+Open files :  % : 56.00
+------------------------------------------------------------
+Open files :  % : 545.00
+------------------------------------------------------------
+Open files :  % : 1452.00
+------------------------------------------------------------
+Open files :  % : 165.00
+------------------------------------------------------------
+Open files :  % : 451.00
+------------------------------------------------------------
+Open files :  % : 460.00
+------------------------------------------------------------
+Open files :  % : 452.00
+------------------------------------------------------------
+Open files :  % : 213.00
+------------------------------------------------------------
+Open files :  % : 5817.00
+------------------------------------------------------------
+Open files :  % : 300.00
+------------------------------------------------------------
+Open files :  % : 73.00
+------------------------------------------------------------
+Open files :  % : 326.00
+------------------------------------------------------------
+Open files :  % : 459.00
+------------------------------------------------------------
+Open files :  % : 451.00
+------------------------------------------------------------
+Open files :  % : 175.00
+------------------------------------------------------------
+Open files :  % : 175.00
+------------------------------------------------------------
+Open files :  % : 120.00
+------------------------------------------------------------
+Open files :  % : 293.00
+------------------------------------------------------------
+Open files :  % : 560.00
+------------------------------------------------------------
+Open files :  % : 229.00
+------------------------------------------------------------
+Open files :  % : 119.00
+------------------------------------------------------------
+Open files :  % : 300.00
+------------------------------------------------------------
+Open files :  % : 577.00
+------------------------------------------------------------
+Open files :  % : 370.00
+------------------------------------------------------------
+Open files :  % : 287.00
+------------------------------------------------------------
+------------------------------------------------------------
+------------------------------------------------------------
+
+----------------Top 10 memory consuming processes q3 -------------
+
+{'pid': 2500, 'name': 'Code.exe', 'rss': 713490432, 'vms': 1189253120, 'memory_percent': 4.2389598253721426}
+
+{'pid': 6344, 'name': 'brave.exe', 'rss': 628977664, 'vms': 836939776, 'memory_percent': 3.736856065860205}
+
+{'pid': 10736, 'name': 'chrome.exe', 'rss': 551251968, 'vms': 750821376, 'memory_percent': 3.2750753776181405}
+
+{'pid': 17004, 'name': 'chrome.exe', 'rss': 503922688, 'vms': 777826304, 'memory_percent': 2.9938846180989023}
+
+{'pid': 18212, 'name': 'Code.exe', 'rss': 498745344, 'vms': 611536896, 'memory_percent': 2.963125196200822}
+
+{'pid': 34644, 'name': 'chrome.exe', 'rss': 290500608, 'vms': 266293248, 'memory_percent': 1.7259101893018536}
+
+{'pid': 25624, 'name': 'Code.exe', 'rss': 279511040, 'vms': 485588992, 'memory_percent': 1.6606194227254698}
+
+{'pid': 19420, 'name': 'Code.exe', 'rss': 258150400, 'vms': 466059264, 'memory_percent': 1.53371247241021}
+
+{'pid': 32624, 'name': 'chrome.exe', 'rss': 239824896, 'vms': 416919552, 'memory_percent': 1.4248377464829862}
+
+{'pid': 24348, 'name': 'chrome.exe', 'rss': 229085184, 'vms': 185409536, 'memory_percent': 1.3610314140330129}
+
+Top 10 process : [{'status': 'running', 'name': 'Code.exe', 'username': 'RAVIRAJS\\ravir', 'pid': 2500, 'create_time': '2026-02-12 01-02-50', 'cpu_percent': 0.0, 'memory_percent': 4.2389598253721426, 'rss': 713490432, 'vms': 1189253120, 'threads': 17, 'open_files': 287}, {'status': 'running', 'name': 'brave.exe', 'username': 'RAVIRAJS\\ravir', 'pid': 6344, 'create_time': '2026-02-12 01-29-39', 'cpu_percent': 0.0, 'memory_percent': 3.736856065860205, 'rss': 628977664, 'vms': 836939776, 'threads': 28, 'open_files': 539}, {'status': 'running', 'name': 'chrome.exe', 'username': 'RAVIRAJS\\ravir', 'pid': 10736, 'create_time': '2026-02-14 01-57-51', 'cpu_percent': 0.0, 'memory_percent': 3.2750753776181405, 'rss': 551251968, 'vms': 750821376, 'threads': 32, 'open_files': 537}, {'status': 'running', 'name': 'chrome.exe', 'username': 'RAVIRAJS\\ravir', 'pid': 17004, 'create_time': '2026-02-12 00-58-31', 'cpu_percent': 5.3, 'memory_percent': 2.9938846180989023, 'rss': 503922688, 'vms': 777826304, 'threads': 48, 'open_files': 4271}, {'status': 'running', 'name': 'Code.exe', 'username': 'RAVIRAJS\\ravir', 'pid': 18212, 'create_time': '2026-02-12 01-02-39', 'cpu_percent': 83.3, 'memory_percent': 2.963125196200822, 'rss': 498745344, 'vms': 611536896, 'threads': 30, 'open_files': 686}, {'status': 'running', 'name': 'chrome.exe', 'username': 'RAVIRAJS\\ravir', 'pid': 34644, 'create_time': '2026-02-14 01-46-12', 'cpu_percent': 0.0, 'memory_percent': 1.7259101893018536, 'rss': 290500608, 'vms': 266293248, 'threads': 28, 'open_files': 560}, {'status': 'running', 'name': 'Code.exe', 'username': 'RAVIRAJS\\ravir', 'pid': 25624, 'create_time': '2026-02-13 13-51-14', 'cpu_percent': 0.0, 'memory_percent': 1.6606194227254698, 'rss': 279511040, 'vms': 485588992, 'threads': 15, 'open_files': 285}, {'status': 'running', 'name': 'Code.exe', 'username': 'RAVIRAJS\\ravir', 'pid': 19420, 'create_time': '2026-02-12 01-02-40', 'cpu_percent': 3.5, 'memory_percent': 1.53371247241021, 'rss': 258150400, 'vms': 466059264, 'threads': 27, 'open_files': 597}, {'status': 'running', 'name': 'chrome.exe', 'username': 'RAVIRAJS\\ravir', 'pid': 32624, 'create_time': '2026-02-14 01-57-19', 'cpu_percent': 0.0, 'memory_percent': 1.4248377464829862, 'rss': 239824896, 'vms': 416919552, 'threads': 31, 'open_files': 452}, {'status': 'running', 'name': 'chrome.exe', 'username': 'RAVIRAJS\\ravir', 'pid': 24348, 'create_time': '2026-02-14 01-58-46', 'cpu_percent': 0.0, 'memory_percent': 1.3610314140330129, 'rss': 229085184, 'vms': 185409536, 'threads': 30, 'open_files': 446}]------------------------------------------------------------
+------------------------------------------------------------
+---------------------- End of log file ---------------------
+------------------------------------------------------------
